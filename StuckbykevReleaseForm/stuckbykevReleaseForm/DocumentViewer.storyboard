@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="pzL-RB-SfU">
+    <device id="ipad9_7" orientation="portrait" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15509"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Document Browser View Controller-->
+        <scene sceneID="hm1-LO-wGF">
+            <objects>
+                <viewController storyboardIdentifier="Document Browser VC" id="pzL-RB-SfU" customClass="DocumentBrowserViewController" customModule="StuckByKev_Release_Form" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="i5G-ja-3ah">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="aBk-fW-Aod"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JBt-Ph-feb" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="26" y="654"/>
+        </scene>
+        <!--Document View Controller-->
+        <scene sceneID="8Z3-rV-L6U">
+            <objects>
+                <viewController storyboardIdentifier="Document VC" id="zmm-Jq-LzV" customClass="DocumentViewController" customModule="StuckByKev_Release_Form" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="hLo-ob-oPf">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="McQ-dp-HNQ">
+                                <rect key="frame" x="0.0" y="0.0" width="768" height="50"/>
+                                <items>
+                                    <navigationItem title="Title" id="iTL-6b-Cno">
+                                        <barButtonItem key="leftBarButtonItem" title="Close" id="JnB-8L-Joa">
+                                            <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
+                                            <connections>
+                                                <action selector="dismissDocumentViewController" destination="zmm-Jq-LzV" id="cHj-7H-614"/>
+                                            </connections>
+                                        </barButtonItem>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="R8x-3Y-oFQ" userLabel="PDF View" customClass="PDFView">
+                                <rect key="frame" x="0.0" y="50" width="768" height="974"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="R8x-3Y-oFQ" firstAttribute="leading" secondItem="zrm-BH-uVe" secondAttribute="leading" id="04i-6D-RW5"/>
+                            <constraint firstItem="McQ-dp-HNQ" firstAttribute="top" secondItem="zrm-BH-uVe" secondAttribute="top" id="4fb-Qv-muO"/>
+                            <constraint firstItem="McQ-dp-HNQ" firstAttribute="leading" secondItem="zrm-BH-uVe" secondAttribute="leading" id="GMS-3X-ahi"/>
+                            <constraint firstItem="McQ-dp-HNQ" firstAttribute="trailing" secondItem="zrm-BH-uVe" secondAttribute="trailing" id="Lkc-fv-e1q"/>
+                            <constraint firstItem="zrm-BH-uVe" firstAttribute="bottom" secondItem="R8x-3Y-oFQ" secondAttribute="bottom" id="dsN-F8-sDU"/>
+                            <constraint firstItem="zrm-BH-uVe" firstAttribute="trailing" secondItem="R8x-3Y-oFQ" secondAttribute="trailing" id="kIG-r1-4zh"/>
+                            <constraint firstItem="R8x-3Y-oFQ" firstAttribute="top" secondItem="McQ-dp-HNQ" secondAttribute="bottom" id="veH-V0-lkf"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="zrm-BH-uVe"/>
+                    </view>
+                    <connections>
+                        <outlet property="navBar" destination="McQ-dp-HNQ" id="a4V-Ej-FHG"/>
+                        <outlet property="pdfView" destination="R8x-3Y-oFQ" id="dcz-zR-cGD"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="sYl-it-fkC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="704" y="654"/>
+        </scene>
+    </scenes>
+</document>
