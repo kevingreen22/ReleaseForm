@@ -1,0 +1,599 @@
+/*
+ Localizable.strings
+ StuckByKev Release Form
+ Russian
+ Created by Kevin Green on 7/2/17.
+ Copyright © 2017 Kevin Green. All rights reserved.
+ */
+
+"Search for yourself to auto-fill" = "Suchen Sie nach sich selbst, um automatisch auszufüllen";
+"Tap the start button to begin a new form" = "Нажмите кнопку «Пуск», чтобы начать новую форму";
+"Long press to show the help tutorial" = "Длительное нажатие, чтобы показать справку";
+"Enter Name - First and Last" = "Введите имя - имя и фамилия";
+"Signature(s)" = "Подпись(ы)";
+"All Legal Clauses" = "Все юридические положения";
+"Personal Info" = "Личная информация";
+"Shop Info" = "Информация о магазине";
+"Photograph ID(s)" = "ID фотографии";
+
+
+
+"- Studio name, address, phone number, website, and email." = "- название студии, адрес, номер телефона, Веб-сайт, а также электронное письмо.";
+"Accept" = "принимать";
+"access token url not defined" = "URL-адрес маркера доступа не определен";
+"Add" = "Добавить";
+"Add Artist Name" = "Добавить имя исполнителя";
+"Address:" = "Адрес:";
+"Age" = "Возраст";
+"Age:" = "Возраст:";
+"Align your ID with the iPad camera at the top and take a photo of your ID." = "Совместите свой ID с iPad-камерой наверху и сфотографируйте свой идентификатор.";
+"All information in a \"required\" section must be complete before the app can be used: \n\(missingInfo())" = "Вся информация в \"требуемом\" разделе должна быть заполнена до того, как приложение может быть использовано: \n\(missingInfo())";
+"Allergic To Latex" = "Аллергический латекс";
+"Anemic (thin blood)" = "Анемическая (тонкая кровь)";
+"App Reset" = "Сброс приложения";
+"Are You Sure?" = "Ты уверен?";
+"Are you sure you want to cancel this form?" = "Вы действительно хотите отменить эту форму?";
+"Are you sure you want to completely restore the app settings to default? This will delete all app information. This will NOT delete any information stored in the cloud." = "Вы действительно хотите полностью восстановить настройки приложения по умолчанию? Это приведет к удалению всей информации о приложении. Это НЕ удалит информацию, хранящуюся в облаке.";
+"Are you sure you want to reset to defult?" = "Вы уверены, что хотите сбросить по умолчанию?";
+"Arm" = "Рука";
+"Artist Array" = "Массив исполнителя";
+"Artist Passcode Set" = "художник набор пароля";
+"Artist Name" = "имя исполнителя";
+"Artist's Name:" = "имя исполнителя:";
+"Auto-Fill" = "Автозаполнения";
+"Auto-Fill Initials" = "Автозаполнение Инициалы";
+"Back" = "назад";
+"Been here before? Search for yourself to auto-fill your info."  = "Был здесь раньше? Поиск себя, чтобы автозаполнения вашей информации.";
+"Birth Date" = "Дата рождения";
+"Birthdate" = "Дата рождения";
+"Birthdate:" = "Дата рождения:";
+"Blood Thinners" = "Разбавители крови";
+"Both" = "оба";
+"By my signature below, I certify under Penalty Of Perjury that the information provided is true and correct, and that I am at least 18 years of age or older; (or have a parent present with ID’s). I further understand that, if I give false information or produce false documents stating my name and age to be other that what is correct, I am liable for prosecution." = "Согласно моей подписи ниже, я подтверждаю, что в соответствии со статьей «Наказание за чье-то нарушение» представленная информация верна и правильна и что мне не менее 18 лет или старше; (или иметь родителя с идентификаторами). Я также понимаю, что если я даю ложную информацию или создаю ложные документы с указанием моего имени и возраста, чтобы быть другим, то, что правильно, я несу ответственность за судебное преследование.";
+"By selecting accept, you acknowlege all information provided is true and correct" = "Выбрав accept, вы подтверждаете, что вся предоставленная информация верна и правильна.";
+"Cancel" = "Отмена";
+"Cancel Form" = "Отменить форму";
+"Cannot open AppStore" = "Не удается открыть AppStore";
+"Center" = "Центр";
+"Change" = "Изменение";
+"City" = "город";
+"City:" = "город:";
+"Clear Signature"  = "Очистить подпись";
+"Clound Service" = "Облачный сервис";
+"Confirm Restore App Settings" = "Подтверждение восстановления настроек приложения";
+"Confirmation" = "подтверждение";
+"Continue" = "Продолжать";
+"Could not get Access Token" = "Не удалось получить токен доступа";
+"Del" = "Удалить";
+"Description" = "Описание";
+"Description Of Tattoo" = "Описание татуировки";
+"Diabetes" = "Диабет";
+"Do you have Mitral valve Prolapse or any other heart condition that requres antibiotics before dental work or other medical procedures?" = "У вас есть Mitral клапан Prolapse или любое другое сердечное заболевание, которое требует антибиотиков перед стоматологической работой или другими медицинскими процедурами?";
+"Done" = "сделано";
+"E-Mail" = "е-мейл";
+"E-mail Address:" = "Адрес электронной почты:";
+"Eczema/Psoriasis" = "Экзема/Псориаз";
+"Enter Artist Name" = "Введите имя исполнителя";
+"Enter City"= "Введите город";
+"Enter Description Of Your Tattoo" = "Enter Description Of Your Tattoo";
+"Enter Email" = "Введите e-mail";
+"Enter Email Address"  = "Введите адрес электронной почты";
+"Enter First and Last" = "Введите первый и последний";
+"Enter Phone Number" = "Введите номер телефона";
+"Enter Street Address" = "Введите адрес улицы";
+"Epilepsy" = "эпилепсия";
+"Fainting" = "обморок";
+"Female" = "женщина";
+"Finish & Upload" = "Конец & Загрузить";
+"First Name" = "Имя";
+"Foot" = "Фут";
+"Gender" = "Пол";
+"Gender:" = "Пол:";
+"Hand" = "Рука";
+"Eaten in last 4 hours?" = "Вы ели за последние 4 часа?";
+"Head/Face" = "голова/Лицо";
+"Health" = "Здоровье";
+"Heart Conditions" = "Состояние сердца";
+"Heavy Bleeding" = "Тяжелое кровотечение";
+"Hepatitis B/C" = "гепатит B/C";
+"Herpes" = "Герпес";
+
+"I have truthfully represented to YOUR STUDIO NAME that I am eighteen(18) years of age or older." = "Я правдиво представлял YOUR STUDIO NAME что я восемнадцать (18) лет или старше.";
+
+"I acknowledge that it is not reasonably possible for the representatives and employees of YOUR STUDIO NAME to determine whether I might have and allergic reaction to any metals, inks or materials used during the procedure, and I agree to accept the risk that such a reactions is possible." = "Я признаю, что представители и сотрудники YOUR STUDIO NAME не могут определить, могу ли я иметь аллергическую реакцию на любые металлы, чернила или материалы, используемые во время процедуры, и я согласен принять риск того, что такие реакции будут возможное.";
+
+"I acknowledge that I have advised my artist of any conditions that might affect the healing of this Tattoo/Piercing. I do not have any medical or skin conditions such as but not limited to: acne, scarring, eczema, psoriasis, freckles, moles, or sunburn in the area to be Tattooed/Pierced that may interfere with said Tattoo/Piercing. If I have any infection or rash anywhere on my body, I will advise the artist." = "Я признаю, что я посоветовал моему художнику какие-либо условия, которые могут повлиять на исцеление этой татуировки / пирсинга. У меня нет каких-либо медицинских или кожных заболеваний, таких как: акне, рубцевание, экзема, псориаз, веснушки, кроты или солнечные ожоги в области, которая должна быть татуированной / пирсинг, которая может помешать упомянутой татуировке / пирсингу. Если у меня есть какая-либо инфекция или сыпь на моем теле, я советую художнику.";
+
+"I am NOT pregnant or nursing." = "Я НЕ беременна или не кормит грудью.";
+
+"I am NOT under the influence of alcohol or drugs." = "Я НЕ под воздействием алкоголя или наркотиков.";
+
+"I acknowledge that infection is always possible when obtaining a Tattoo/Piercing, particularly in the event that I do not take proper care of my Tattoo/Piercing. I have received aftercare instructions and I agree to follow them while my Tattoo/Piercing is healing." = "Я признаю, что инфекция всегда возможна при получении татуировки / пирсинга, особенно в том случае, если я не занимаюсь должным вниманием к татуировке / пирсингу. Я получил инструкции после ухода, и я соглашаюсь следовать им, пока мой Татуировка / Пирсинг исцеляет.v";
+
+"I acknowledge that a Tattoo/Piercing is a permanent chance to my appearance. To my knowledge, I do NOT have physical, mental or medical impairment or disability which might affect my well being as a direct or indirect result of my decision to have a Tattoo/Piercing." = "Я признаю, что татуировка / пирсинг - это постоянный шанс на мою внешность. Насколько мне известно, у меня нет физического, умственного или медицинского ухудшения или инвалидности, которое может повлиять на мое самочувствие как на прямой или косвенный результат моего решения о татуировке / пирсинге.";
+
+"I acknowledge the decision for obtaining my Tattoo/Piercing is my own free will and choice. I consent to the location of the Tattoo/Piercing and performance of the Tattoo/Piercing procedure." = "Я признаю, что решение о получении моей татуировки / пирсинга - это моя собственная свободная воля и выбор. Я соглашаюсь на расположение татуировки / пирсинга и выполнение процедуры татуировки / пирсинга.";
+
+"I acknowledge and agree to following any and all instructions given to me regarding the maintenance of a sanitary environment while I am being Tattooed/Pierced." = "Я признаю и соглашаюсь следовать всем и всем инструкциям, которые мне даны в отношении поддержания санитарной среды, пока я таскаю / пирсинг.";
+
+"I agree to IMMEDIATELY notify my artist if I feel lightheaded, dizzy, and/or faint before, during or after the procedure. Failure to do so releases YOUR STUDIO NAME and the artists of all responsibility." = "Я соглашаюсь НЕМЕДЛЕННО уведомить моего художника, если я чувствую головокружение, головокружение и / или слабость до, во время или после процедуры. Несоблюдение этого требования выдает YOUR STUDIO NAME и исполнителей всей ответственности.";
+
+"Identification" = "Удостоверение личности";
+"If you would like, we can send you a digital copy of your aftercare instructions." = "Если вы хотите, мы можем отправить вам цифровую копию ваших инструкций по уходу.";
+"Information" = "Информация";
+"Initials" = "Инициалы";
+"Is the person getting the procedure over 18?" = "Является ли человек, получающий процедуру более 18 лет?";
+"Is the person getting a tattoo or piercing?" = "Человек получает татуировку или пирсинг?";
+"Last Name" = "Фамилия";
+"Left" = "Оставил";
+"Left/Full" = "левый/Полный";
+"Left/Lower" = "левый/ниже";
+"Left/Upper" = "левый/верхний";
+"Leg" = "Нога";
+"Legal" = "законный";
+"Legal Section" = "Юридический раздел";
+"Legalese" = "юридическим языком";
+"Legalese Editor" = "юридическим языком редактор";
+"Make Changes" = "Вносить изменения";
+"Male" = "мужчина";
+"Master Passcode Set" = "Мастер Passcode Set";
+"Minor/Piercee" = "минорит/Piercee";
+"Name" = "имя";
+"Name:" = "имя:";
+"No" = "нет";
+"No ID Photo Taken" = "Нет ID Фото Взятые";
+"Ok" = "ОК";
+"Oops" = "Ой!";
+"Optional" = "Необязательный";
+"Other" = "Другие";
+"Other, Not Listed" = "Другие, Нет в списке";
+"Other risk factor for blood borne pathogens(HIV, AIDS, any other communicable disease)" = "Другой фактор риска для переносимых кровью патогенов (ВИЧ, СПИД, любое другое инфекционное заболевание)";
+"Parent/Guardian" = "родитель/опекун";
+"Phone:" = "Телефон:";
+"Phone Number" = "Номер телефона";
+"Piercing" = "пронзительный";
+"Piercing: " = "пронзительный: ";
+"piercing" = "пронзительный";
+"Placement Of Tattoo" = "Размещение татуировки";
+"Please check any and all conditions that apply to you as listed below:" = "Проверьте все и все условия, применимые к вам, как указано ниже:";
+"Please check the information and edit it if the auto-fill is out of date." = "Пожалуйста, проверьте информацию и отредактируйте ее, если автозаполнение устарело.";
+"Please sign with your finger below" = "Подпишите пальцем ниже";
+"Please Try Again" = "Пожалуйста, попробуйте снова";
+"Pregnant/Nursing" = "беременная/грудное вскармливание";
+"Preview it" = "Предварительный просмотр";
+"Privacy Policy" = "политика конфиденциальности";
+"Private" = "Частный";
+"Release & Waiver Of All Claims" = "Освобождение и отказ от всех претензий";
+"Reset" = "Сброс";
+"Right" = "Правая сторона";
+"Right/Full" = "направо/Полный";
+"Right/Lower" = "направо/ниже";
+"Right/Upper" = "направо/верхний";
+"Save" = "спасти";
+"Scarring/Keloiding" = "рубцевание/келоид";
+"Select Body Placement" = "выбрать размещение тела";
+"Select Your Artist" = "Sвыберите своего исполнителя";
+"Select Your Birthdate" = "Выберите дату рождения";
+"Select Your Birthday" = "Выберите дату рождения";
+"Select Your Piercing Type" = "Выберите тип пирсинга";
+"Select Your State" = "выберите свое состояние";
+"Select Your Tattoo Placement" = "Выберите место размещения татуировки";
+"Send by Email" = "послать по электронной почте";
+"Signature" = "Подпись";
+"Skin Conditions" = "состояние кожи";
+"Something went wrong connectiong to your camera. Plese check your settings and try again.\n \(error.localizedDescription)" = "Что-то пошло не так подключения к камере. Пожалуйста проверьте свои настройки и попробуйте снова.\n \(error.localizedDescription)";
+"Start" = "Начало";
+"State:" = "государство:";
+"State" = "государство";
+"Street Address" = "адрес улицы";
+"Studio Address" = "адрес студии";
+"Studio Email" = "адрес электронной почты студии";
+"Studio Name" = "название студии";
+"Studio Phone Number" = "номер телефона студии";
+"Studio Website" = "сайт студии";
+"T.B." = "туберкулез";
+"Take A Photo Of Your ID" = "Сфотографируйте Вашего ID";
+"Tap To Pick Artist" = "Нажмите, чтобы выбрать исполнителя";
+"Tap To Pick Birthdate" = "Нажмите, чтобы выбрать дату рождения";
+"Tap To Pick Piercing" = "Нажмите, чтобы выбрать пирсинг";
+"Tap To Pick State" = "Нажмите, чтобы Встреча государства";
+"Tattoo" = "тату";
+"Tattoo: " = "тату: ";
+"tattoo" = "тату";
+"Tattoo Placement:" = "TРазмещение татуировки:";
+"Thank you for your recent \(tatORpierce!) from \(studioName!)\n Here is your requested copy of your aftercare instructions." = "Спасибо за ваше недавнее \(tatORpierce!) из \(studioName!)\n Вот ваша запрошенная копия ваших инструкций по уходу.";
+"Thank you for your recent tattoo/piercing from \(studioName!)\n Here is your requested copy of your release form." = "Спасибо за недавнюю татуировку / пирсинг от \(studioName!)\n Вот ваша запрошенная копия вашей формы выпуска.";
+"Thats it, your all done!" = "Вот это, все ваши сделали!";
+"The app settings have been restored." = "Настройки приложения были восстановлены.";
+"The birthdate you entered does not match the birthdate for the name chosen." = "Введенная вами дата рождения не соответствует дате рождения для выбранного имени.";
+"The legal clauses have been set to defult." = "Законодательные положения установлены на значение по умолчанию.";
+"There was an error." = "Там была ошибка.";
+"This app is your new digital tattoo/piercing release form. It replaces the paper release form you would normally fill out today. Law requires a new form for each session, but paper is wasteful and not secure.  It saves trees, reduces printer ink, eliminates bulky cabinets, encrypts your data, and helps you quickly auto-fill your infomation. Everybody wins! Including the environment!" = "Это приложение - это новая форма выпуска цифровых тату / пирсинга. Он заменяет форму выпуска бумаги, которую вы обычно заполняете сегодня. Закон требует новой формы для каждой сессии, но бумага является расточительной и небезопасной. Он экономит деревья, уменьшает количество чернил принтера, устраняет громоздкие шкафы, шифрует ваши данные и помогает быстро автоматизировать заполнение вашей информации. Все побеждают! Включая окружающую среду!";
+"This will also reset the app passcodes and delete any clients in the queue." = "Это также приведет к сбросу паролей приложений и удалению всех клиентов в очереди.";
+"Today's Date:" = "Сегодняшняя дата:";
+"Torso/Ribs" = "торс/ребра";
+"Tuberculosis" = "туберкулез";
+"Type Of Piercing" = "Тип пирсинга";
+"Type Of Piercing:" = "Тип пирсинга:";
+"Under Age" = "в возрасте";
+"We're sorry, you must be 18 or older to get a tattoo." = "Мы сожалеем, вам должно быть 18 лет и старше, чтобы получить татуировку.";
+"Welcome To Your Digital Release Form!" = "Добро пожаловать в форме цифрового релиза!";
+"Wrong Birthdate" = "Неправильный срок рождения";
+"Wrong Format" = "неверный формат";
+"Wrong Password" = "Неправильный пароль";
+"Yeah!" = "Да!";
+"Yes" = "да";
+"You can double tap either preview below to clear the photo." = "Вы можете дважды нажать на предварительный просмотр внизу, чтобы очистить фотографию.";
+"You can double tap the preview below to clear the photo" = "Вы можете дважды коснуться предварительного просмотра, чтобы очистить фотографию";
+"You must complete all information before saving your form: \n\(missingInfo())" = "Перед сохранением формы вы должны заполнить всю информацию: \n\(missingInfo())";
+"You must take a picture of your ID(s) before you can continue." = "Вы должны сделать снимок вашего ID (ы), прежде чем продолжить.";
+"Your Aftercare Instructions" = "Ваши инструкции по уходу";
+"Your artist will call you when they're ready." = "Ваш художник позвонит вам, когда они будут готовы.";
+"Your \(studioName!) Release Form" = "Ваш \(studioName!) Форма выпуска";
+"Your first and last names must be separated by a space." = "Ваше имя и фамилия должны быть разделены пробелом.";
+"Your invoice has been successfully printed to a PDF file.\n\nWhat do you want to do now?" = "Ваш счет успешно напечатан в PDF-файле.\n\nЧто бы вы хотели делать теперь?";
+"YOUR STUDIO NAME" = "YOUR STUDIO NAME";
+"Zip:" = "почтовый индекс:";
+"Zip Code" = "почтовый индекс";
+
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "1ec-Ce-cxW"; */
+"1ec-Ce-cxW.title" = "Отмена";
+
+/* Class = "UILabel"; text = "3. Provide at least the following:"; ObjectID = "2r4-ql-3JS"; */
+"2r4-ql-3JS.text" = "3. Предоставьте хотя бы следующее:";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "2y8-ZA-sLF"; */
+"2y8-ZA-sLF.title" = "спасти";
+
+/* Class = "UIBarButtonItem"; title = "Queue"; ObjectID = "3At-gI-74D"; */
+"3At-gI-74D.title" = "Очередь";
+
+/* Class = "UITextField"; placeholder = "Enter Lot #'s"; ObjectID = "4WV-FS-yzS"; */
+"4WV-FS-yzS.placeholder" = "Введите лот#'s";
+
+/* Class = "UIButton"; normalTitle = "Set Master Passcode"; ObjectID = "4sn-zv-08d"; */
+"4sn-zv-08d.normalTitle" = "Установить основной пароль";
+
+/* Class = "UITableViewSection"; headerTitle = "Studio Options"; ObjectID = "5Hd-wF-auk"; */
+"5Hd-wF-auk.headerTitle" = "Параметры студии";
+
+/* Class = "UILabel"; text = "Turn this on if your state allows persons under the age of 18 to get tattoos. Off by default"; ObjectID = "5dn-u3-QKX"; */
+"5dn-u3-QKX.text" = "Включите это, если ваше состояние позволяет людям в возрасте до 18 лет получать татуировки. Выкл. По умолчанию";
+
+/* Class = "UILabel"; text = "Dropbox"; ObjectID = "5zA-t6-gJP"; */
+"5zA-t6-gJP.text" = "Dropbox";
+
+/* Class = "UILabel"; text = "This passcode allows access to these setting and can also be used to access the Queue. Ideal for owners/managers."; ObjectID = "6cu-Hq-cYY"; */
+"6cu-Hq-cYY.text" = "Этот код доступа позволяет получить доступ к этим параметрам и также может использоваться для доступа к очереди. Идеально подходит для владельцев / менеджеров.";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "6t7-PL-Vax"; */
+"6t7-PL-Vax.normalTitle" = "7";
+
+/* Class = "UIBarButtonItem"; title = "Continue"; ObjectID = "782-Ue-dGk"; */
+"782-Ue-dGk.title" = "Продолжать";
+
+/* Class = "UILabel"; text = "Studio Email"; ObjectID = "7RP-gM-DdE"; */
+"7RP-gM-DdE.text" = "адрес электронной почты студии";
+
+/* Class = "UILabel"; text = "Relesase Form needs some basic info in order for the app to function. You can always change things later too."; ObjectID = "7j1-QS-RV0"; */
+"7j1-QS-RV0.text" = "Форма выпуска нуждается в некоторой базовой информации, чтобы приложение функционировало. Вы всегда можете изменить вещи позже.";
+
+/* Class = "UILabel"; text = "Preview PDF"; ObjectID = "8aJ-P0-Noi"; */
+"8aJ-P0-Noi.text" = "предварительный просмотр PDF";
+
+/* Class = "UILabel"; text = "Box"; ObjectID = "8wc-ea-y0W"; */
+"8wc-ea-y0W.text" = "BOX";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Phone Number"; ObjectID = "A4D-YQ-4FI"; */
+"A4D-YQ-4FI.placeholder" = "Введите номер телефона студии";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "AMW-gd-qQU"; */
+"AMW-gd-qQU.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "Ba3-nm-7C0"; */
+"Ba3-nm-7C0.normalTitle" = "6";
+
+/* Class = "UITextField"; placeholder = "Additional notes i.e. needles/inks"; ObjectID = "Bje-iI-aix"; */
+"Bje-iI-aix.placeholder" = "Дополнительные примечания т.е. игла / чернила";
+
+/* Class = "UILabel"; text = "Set Passcode"; ObjectID = "Byb-Uo-Y5H"; */
+"Byb-Uo-Y5H.text" = "Установить пароль";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Website"; ObjectID = "Cav-eg-avs"; */
+"Cav-eg-avs.placeholder" = "Введите сайт студии";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "DLj-ot-ekA"; */
+"DLj-ot-ekA.normalTitle" = "3";
+
+/* Class = "UITableViewSection"; headerTitle = "Legalese Editor"; ObjectID = "DjT-VF-MeW"; */
+"DjT-VF-MeW.headerTitle" = "юридический редактор";
+
+/* Class = "UILabel"; text = "Rate On iTunes!"; ObjectID = "ETa-6z-pMF"; */
+"ETa-6z-pMF.text" = "ставка по iTunes!";
+
+/* Class = "UIButton"; normalTitle = "Add/Delete Artist"; ObjectID = "EUd-CZ-k1S"; */
+"EUd-CZ-k1S.normalTitle" = "Добавить/Удалить художник";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Efv-vb-bZY"; */
+"Efv-vb-bZY.title" = "спасти";
+
+/* Class = "UIBarButtonItem"; title = "Add A New Clause"; ObjectID = "End-o5-Wji"; */
+"End-o5-Wji.title" = "Добавить новый пункт";
+
+/* Class = "UITableViewSection"; headerTitle = "App Options"; ObjectID = "F3Y-Lg-7Fz"; */
+"F3Y-Lg-7Fz.headerTitle" = "параметры App";
+
+/* Class = "UIBarButtonItem"; title = "Restore App Defaults"; ObjectID = "FZh-KX-ujF"; */
+"FZh-KX-ujF.title" = "восстановление приложений по умолчанию";
+
+/* Class = "UIButton"; normalTitle = "Set Artist Passcode"; ObjectID = "GPH-1p-JqE"; */
+"GPH-1p-JqE.normalTitle" = "установить пароль для исполнителя";
+
+/* Class = "UILabel"; text = "What Is A Cloud Service?"; ObjectID = "GYj-yO-gkd"; */
+"GYj-yO-gkd.text" = "Что такое облачная служба?";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "GwB-vb-18y"; */
+"GwB-vb-18y.normalTitle" = "сделано";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "HvT-UY-Zid"; */
+"HvT-UY-Zid.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Background Color"; ObjectID = "I2K-6X-NXZ"; */
+"I2K-6X-NXZ.text" = "фоновый цвет";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Email"; ObjectID = "IBm-9b-5TA"; */
+"IBm-9b-5TA.placeholder" = "Введите адрес электронной почты студии";
+
+/* Class = "UILabel"; text = "Artist List"; ObjectID = "IEJ-2x-euj"; */
+"IEJ-2x-euj.text" = "Исполнитель Список";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "IIa-gV-q6M"; */
+"IIa-gV-q6M.normalTitle" = "1";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Name"; ObjectID = "IlQ-MP-Zvd"; */
+"IlQ-MP-Zvd.placeholder" = "Введите имя студии";
+
+/* Class = "UILabel"; text = "Color:"; ObjectID = "Io5-9I-U2c"; */
+"Io5-9I-U2c.text" = "цвет:";
+
+/* Class = "UIButton"; normalTitle = "reset"; ObjectID = "J6b-Iz-ED6"; */
+"J6b-Iz-ED6.normalTitle" = "сброс";
+
+/* Class = "UITextField"; placeholder = "Enter clause here"; ObjectID = "JIu-3n-gFp"; */
+"JIu-3n-gFp.placeholder" = "Введите условия здесь";
+
+/* Class = "UILabel"; text = "Enter Passcode"; ObjectID = "JmD-Zm-7YP"; */
+"JmD-Zm-7YP.text" = "Введите пароль";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "KCS-D8-P5X"; */
+"KCS-D8-P5X.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Allow Under 18 Tattoos"; ObjectID = "KcD-1d-9Wc"; */
+"KcD-1d-9Wc.text" = "Разрешить до 18 татуировок";
+
+/* Class = "UILabel"; text = "Choose Photo"; ObjectID = "Lnq-Dm-qhd"; */
+"Lnq-Dm-qhd.text" = "Выбрать фото";
+
+/* Class = "UILabel"; text = "Artist Passcode"; ObjectID = "M3b-HV-20W"; */
+"M3b-HV-20W.text" = "Исполнитель Passcode";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "MAK-PB-cKB"; */
+"MAK-PB-cKB.normalTitle" = "сделано";
+
+/* Class = "UILabel"; text = "Studio Logo"; ObjectID = "MCj-E2-Ta5"; */
+"MCj-E2-Ta5.text" = "Логотип студии";
+
+/* Class = "UILabel"; text = "Logo is NOT required but it makes the app look more professional."; ObjectID = "MTe-cZ-ere"; */
+"MTe-cZ-ere.text" = "Логотип НЕ требуется, но это делает приложение более профессиональным.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "N4q-9O-4Vg"; */
+"N4q-9O-4Vg.normalTitle" = "сделано";
+
+/* Class = "UINavigationItem"; title = "Artists"; ObjectID = "PTl-jZ-WoF"; */
+"PTl-jZ-WoF.title" = "Художники";
+
+/* Class = "UILabel"; text = "A cloud service is a place where you can send digital information from an internet connected device to a company that stores it on their servers. Sort of like an offsite storage thats accessible at anytime."; ObjectID = "Pzu-wp-v5a"; */
+"Pzu-wp-v5a.text" = "Облачный сервис - это место, где вы можете отправлять цифровую информацию с подключенного к Интернету устройства в компанию, которая хранит ее на своих серверах. Это похоже на внешнее хранилище, доступное в любое время.";
+
+/* Class = "UILabel"; text = "Enter 4-Digit Passcode"; ObjectID = "RTQ-RI-SMD"; */
+"RTQ-RI-SMD.text" = "Введите 4-значный пароль";
+
+/* Class = "UILabel"; text = "View Privacy Policy"; ObjectID = "ReU-Y6-Qae"; */
+"ReU-Y6-Qae.text" = "Политика конфиденциальности";
+
+/* Class = "UILabel"; text = "Edit Legalese"; ObjectID = "Rh2-kl-x1V"; */
+"Rh2-kl-x1V.text" = "Редактировать ЮРИДИЧЕСКАЯ";
+
+/* Class = "UINavigationItem"; prompt = "All Studio options and a cloud service are required."; ObjectID = "RsW-G9-QTc"; */
+"RsW-G9-QTc.prompt" = "Все параметры Studio и облачный сервис необходимы.";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "RsW-G9-QTc"; */
+"RsW-G9-QTc.title" = "настройки";
+
+/* Class = "UITableViewSection"; headerTitle = "Cloud Services"; ObjectID = "SEs-GG-4sL"; */
+"SEs-GG-4sL.headerTitle" = "Облачные сервисы";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "SPr-mn-LKH"; */
+"SPr-mn-LKH.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "Studio Name"; ObjectID = "Tab-tE-uia"; */
+"Tab-tE-uia.text" = "Название студии";
+
+/* Class = "UILabel"; text = "Studio Address"; ObjectID = "UGd-Li-mCa"; */
+"UGd-Li-mCa.text" = "Адрес студии";
+
+/* Class = "UIBarButtonItem"; title = "Restore Defaults"; ObjectID = "V5o-gu-6Y6"; */
+"V5o-gu-6Y6.title" = "Восстановить значения по умолчанию";
+
+/* Class = "UILabel"; text = "Initial Setup Instructions"; ObjectID = "VZA-Hv-d4k"; */
+"Initial Setup Instructions" = "Инструкции по начальной установке";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "X65-xM-wmk"; */
+"X65-xM-wmk.normalTitle" = "ОК";
+
+/* Class = "UILabel"; text = "- Add at least one Artist"; ObjectID = "X7H-NE-cLa"; */
+"X7H-NE-cLa.text" = "- Добавьте хотя бы одного исполнителя";
+
+/* Class = "UILabel"; text = "App Background Color"; ObjectID = "XYM-fa-XBS"; */
+"XYM-fa-XBS.text" = "App Цвет фона";
+
+/* Class = "UILabel"; text = "Send Us Feedback!"; ObjectID = "XYc-Wa-93V"; */
+"XYc-Wa-93V.text" = "пришлите нам обратную связь!";
+
+/* Class = "UINavigationItem"; title = "Client Queue"; ObjectID = "b6x-Q3-2hF"; */
+"b6x-Q3-2hF.title" = "Очередь клиента";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "b9j-Vq-Qf0"; */
+"b9j-Vq-Qf0.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "The default background color is white."; ObjectID = "bCo-cr-ecf"; */
+"bCo-cr-ecf.text" = "Цвет фона по умолчанию - белый.";
+
+/* Class = "UITableViewSection"; headerTitle = "Privacy Policy"; ObjectID = "bdG-OP-gNo"; */
+"bdG-OP-gNo.headerTitle" = "политика конфиденциальности";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "c7n-mH-g7k"; */
+"c7n-mH-g7k.normalTitle" = "Продолжать";
+
+/* Class = "UIButton"; normalTitle = "Reset Studio Logo"; ObjectID = "cqe-NQ-ebu"; */
+"cqe-NQ-ebu.normalTitle" = "Rсбросить логотип студии";
+
+/* Class = "UILabel"; text = "Studio Phone Number"; ObjectID = "dJe-aD-xu9"; */
+"dJe-aD-xu9.text" = "Номер студийного телефона";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ddF-jQ-5z4"; */
+"ddF-jQ-5z4.normalTitle" = "сделано";
+
+/* Class = "UILabel"; text = "The Legalese are legal clauses the client must agree to and initial in order to get a tattoo/piercing."; ObjectID = "dpw-jD-Fgo"; */
+"dpw-jD-Fgo.text" = "The Legalese являются юридическими положениями, которые клиент должен согласовать и начать, чтобы получить татуировку / пирсинг.";
+
+/* Class = "UILabel"; text = "This passcode allows access to the Queue only. Ideal for artists."; ObjectID = "e5h-zw-tbM"; */
+"e5h-zw-tbM.text" = "Этот код доступа позволяет получить доступ только к очереди. Идеально подходит для художников.";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "eAb-E7-8Ff"; */
+"eAb-E7-8Ff.normalTitle" = "2";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "eT2-LM-n3S"; */
+"eT2-LM-n3S.title" = "назад";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "euY-gt-Eh0"; */
+"euY-gt-Eh0.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "2. Enter the default master passcode: 1234"; ObjectID = "f9u-xF-9EJ"; */
+"f9u-xF-9EJ.text" = "2. Введите основной пароль доступа по умолчанию: 1234";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "fpr-EH-g9O"; */
+"fpr-EH-g9O.normalTitle" = "6";
+
+/* Class = "UILabel"; text = "Master Passcode"; ObjectID = "fwu-OR-sVa"; */
+"fwu-OR-sVa.text" = "мастер-код доступа";
+
+/* Class = "UILabel"; text = "Select how this clause is shown"; ObjectID = "gve-C1-5jE"; */
+"gve-C1-5jE.text" = "Выберите способ отображения этого условия";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "hRc-Y7-c2l"; */
+"hRc-Y7-c2l.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "izy-GB-KHW"; */
+"izy-GB-KHW.normalTitle" = "сделано";
+
+/* Class = "UIButton"; normalTitle = "Reset Background Color"; ObjectID = "jDP-ou-DEZ"; */
+"jDP-ou-DEZ.normalTitle" = "Сбросить цвет фона";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[0] = "Tattoo"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[0]" = "тату";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[1] = "Piercing"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[1]" = "пронзительный";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[2] = "Both"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[2]" = "оба";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "jZ8-ep-GzF"; */
+"jZ8-ep-GzF.normalTitle" = "сделано";
+
+/* Class = "UITextField"; placeholder = "12345"; ObjectID = "jws-fk-PNJ"; */
+"jws-fk-PNJ.placeholder" = "12345";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "kJr-iZ-L94"; */
+"kJr-iZ-L94.normalTitle" = "7";
+
+/* Class = "UIBarButtonItem"; title = "Queue"; ObjectID = "l9R-bA-Mh0"; */
+"l9R-bA-Mh0.title" = "Очередь";
+
+/* Class = "UIBarButtonItem"; title = "Cancel Form"; ObjectID = "lXw-cS-kU1"; */
+"lXw-cS-kU1.title" = "Отменить форму";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "mXO-JO-qf2"; */
+"mXO-JO-qf2.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Opacity:"; ObjectID = "nJs-Fd-hgm"; */
+"nJs-Fd-hgm.text" = "помутнение:";
+
+/* Class = "UILabel"; text = "1. Tap the Settings gear in the upper left hand corner."; ObjectID = "nUz-Vd-G6Q"; */
+"nUz-Vd-G6Q.text" = "1. Нажмите на значок шестеренки в верхнем левом углу.";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "nZ5-wa-oGB"; */
+"nZ5-wa-oGB.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "Studio Website"; ObjectID = "oQ9-Hs-ZSy"; */
+"oQ9-Hs-ZSy.text" = "Сайт студии";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "osm-mW-Oyc"; */
+"osm-mW-Oyc.normalTitle" = "сделано";
+
+/* Class = "UILabel"; text = "- Link a cloud Service (iCloud, Dropbox, BOX) "; ObjectID = "p06-dU-iVg"; */
+"p06-dU-iVg.text" = "- Связать облачную службу (iCloud, Dropbox, BOX) ";
+
+/* Class = "UILabel"; text = "4. Tap \"Done\" to save "; ObjectID = "p4L-h0-NYe"; */
+"p4L-h0-NYe.text" = "4. Нажмите \"Готово\", чтобы сохранить";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Address"; ObjectID = "p7u-PO-ttT"; */
+"p7u-PO-ttT.placeholder" = "Введите адрес студии";
+
+/* Class = "UITableViewSection"; headerTitle = "Send Feedback"; ObjectID = "p9A-Yk-r2Q"; */
+"p9A-Yk-r2Q.headerTitle" = "Отправить отзыв";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "psi-GJ-Q2f"; */
+"psi-GJ-Q2f.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "qL5-8w-rgC"; */
+"qL5-8w-rgC.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "qXT-ce-Vt2"; */
+"qXT-ce-Vt2.normalTitle" = "сделано";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "rWs-40-SzM"; */
+"rWs-40-SzM.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "sFi-ZU-6fN"; */
+"sFi-ZU-6fN.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Current Image:"; ObjectID = "uDH-nU-6hp"; */
+"uDH-nU-6hp.text" = "Текущее изображение:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uVL-35-bdh"; */
+"uVL-35-bdh.normalTitle" = "сделано";
+
+/* Class = "UILabel"; text = "This app requires the use of a cloud service. Any one of the following are appoved for this app. Tap on the icon so set up your account now."; ObjectID = "ufy-FU-M0U"; */
+"ufy-FU-M0U.text" = "TЭто приложение требует использования облачного сервиса. Любое одно из следующих утверждений для этого приложения. Нажмите на значок, чтобы настроить свою учетную запись сейчас.";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "vz6-x4-pu4"; */
+"vz6-x4-pu4.normalTitle" = "Задавать";
+
+/* Class = "UILabel"; text = "Studio Logo"; ObjectID = "wUK-Va-kRF"; */
+"wUK-Va-kRF.text" = "Логотип студии";
+
+/* Class = "UILabel"; text = "Enter your legal clause below."; ObjectID = "wWx-Zb-GLe"; */
+"wWx-Zb-GLe.text" = "введите свое юридическое условие ниже.";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "wYl-eM-34l"; */
+"wYl-eM-34l.normalTitle" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Cancel Form"; ObjectID = "yxA-Ln-cZ0"; */
+"yxA-Ln-cZ0.title" = "Отменить форму";
+
+/* Class = "UIButton"; title = "Choose Piercing"; ObjectID = "cux-se-qxp"; */
+"cux-se-qxp.title" = "Выберите Пирсинг";
+

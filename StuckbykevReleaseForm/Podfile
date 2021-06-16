@@ -1,0 +1,15 @@
+platform :ios, '12.0'
+use_frameworks!
+
+target 'StuckByKev Release Form' do
+   
+    
+    pod 'IQKeyboardManagerSwift'
+    pod 'SwiftSignatureView'
+    pod 'Localize-Swift'
+    pod 'SCLAlertView'
+    pod 'CircularSpinner'
+    pod 'ChromaColorPicker'
+    #pod 'Spring', :git => 'https://github.com/MengTo/Spring.git'
+
+end

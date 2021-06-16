@@ -1,0 +1,618 @@
+
+/* Class = "UILabel"; text = "Birth Date"; ObjectID = "1AX-iO-vG2"; */
+"1AX-iO-vG2.text" = "Birth Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1CO-DG-phN"; */
+"1CO-DG-phN.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "1ec-Ce-cxW"; */
+"1ec-Ce-cxW.title" = "Cancel";
+
+/* Class = "UILabel"; text = "E-mail Address:"; ObjectID = "1vr-Zq-Wkc"; */
+"1vr-Zq-Wkc.text" = "E-mail Address:";
+
+/* Class = "UILabel"; text = "Eczema/Psoriasis"; ObjectID = "2cX-CU-rxJ"; */
+"2cX-CU-rxJ.text" = "Eczema/Psoriasis";
+
+/* Class = "UILabel"; text = "3. Provide at least the following:"; ObjectID = "2r4-ql-3JS"; */
+"2r4-ql-3JS.text" = "3. Provide at least the following:";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "2tP-Pw-OuN"; */
+"2tP-Pw-OuN.text" = "Phone:";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "2y8-ZA-sLF"; */
+"2y8-ZA-sLF.title" = "Save";
+
+/* Class = "UIBarButtonItem"; title = "Que"; ObjectID = "3At-gI-74D"; */
+"3At-gI-74D.title" = "Que";
+
+/* Class = "UITextField"; placeholder = "Enter Lot #'s"; ObjectID = "4WV-FS-yzS"; */
+"4WV-FS-yzS.placeholder" = "Enter Lot #'s";
+
+/* Class = "UITextField"; placeholder = "Optional"; ObjectID = "4hm-nW-uS6"; */
+"4hm-nW-uS6.placeholder" = "Optional";
+
+/* Class = "UIButton"; normalTitle = "Set Master Passcode"; ObjectID = "4sn-zv-08d"; */
+"4sn-zv-08d.normalTitle" = "Set Master Passcode";
+
+/* Class = "UITableViewSection"; headerTitle = "Studio Options"; ObjectID = "5Hd-wF-auk"; */
+"5Hd-wF-auk.headerTitle" = "Studio Options";
+
+/* Class = "UILabel"; text = "Turn this on if your state allows persons under the age of 18 to get tattoos. Off by default"; ObjectID = "5dn-u3-QKX"; */
+"5dn-u3-QKX.text" = "Turn this on if your state allows persons under the age of 18 to get tattoos. Off by default";
+
+/* Class = "UILabel"; text = "Dropbox"; ObjectID = "5zA-t6-gJP"; */
+"5zA-t6-gJP.text" = "Dropbox";
+
+/* Class = "UILabel"; text = "This passcode allows access to these setting and can also be used to access the Queue. Ideal for owners/managers."; ObjectID = "6cu-Hq-cYY"; */
+"6cu-Hq-cYY.text" = "This passcode allows access to these setting and can also be used to access the Queue. Ideal for owners/managers.";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "6t7-PL-Vax"; */
+"6t7-PL-Vax.normalTitle" = "7";
+
+/* Class = "UIButton"; normalTitle = "Clear Signature"; ObjectID = "6uh-Jt-Z62"; */
+"6uh-Jt-Z62.normalTitle" = "Clear Signature";
+
+/* Class = "UIBarButtonItem"; title = "Continue"; ObjectID = "782-Ue-dGk"; */
+"782-Ue-dGk.title" = "Continue";
+
+/* Class = "UILabel"; text = "Studio Email"; ObjectID = "7RP-gM-DdE"; */
+"7RP-gM-DdE.text" = "Studio Email";
+
+/* Class = "UILabel"; text = "Thats it, your all done! "; ObjectID = "7Zg-Gt-iRp"; */
+"7Zg-Gt-iRp.text" = "Thats it, your all done! ";
+
+/* Class = "UILabel"; text = "SBK Relesase Forms needs some basic info in order for the app to function. You can always change things later too. "; ObjectID = "7j1-QS-RV0"; */
+"7j1-QS-RV0.text" = "SBK Relesase Forms needs some basic info in order for the app to function. You can always change things later too. ";
+
+/* Class = "UILabel"; text = "Pregnant/Nursing"; ObjectID = "8Po-GH-33O"; */
+"8Po-GH-33O.text" = "Pregnant/Nursing";
+
+/* Class = "UILabel"; text = "Preview PDF"; ObjectID = "8aJ-P0-Noi"; */
+"8aJ-P0-Noi.text" = "Preview PDF";
+
+/* Class = "UILabel"; text = "Box"; ObjectID = "8wc-ea-y0W"; */
+"8wc-ea-y0W.text" = "Box";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "8zg-XK-RiA"; */
+"8zg-XK-RiA.text" = "Address:";
+
+/* Class = "UILabel"; text = "Select Your Birthday"; ObjectID = "9Hg-QG-oec"; */
+"9Hg-QG-oec.text" = "Select Your Birthday";
+
+/* Class = "UILabel"; text = "Align your ID with the iPad camera at the top and take a photo of your ID."; ObjectID = "9Ra-za-fJ4"; */
+"9Ra-za-fJ4.text" = "Align your ID with the iPad camera at the top and take a photo of your ID.";
+
+/* Class = "UILabel"; text = "Artist's Name:"; ObjectID = "9xi-8W-rhY"; */
+"9xi-8W-rhY.text" = "Artist's Name:";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Phone Number"; ObjectID = "A4D-YQ-4FI"; */
+"A4D-YQ-4FI.placeholder" = "Enter Studio Phone Number";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "AMW-gd-qQU"; */
+"AMW-gd-qQU.normalTitle" = "5";
+
+/* Class = "UITextField"; placeholder = "Enter City"; ObjectID = "AYr-mm-4cH"; */
+"AYr-mm-4cH.placeholder" = "Enter City";
+
+/* Class = "UIButton"; normalTitle = "Tap To Pick Piercing"; ObjectID = "Aaz-Xc-RUg"; */
+"Aaz-Xc-RUg.normalTitle" = "Tap To Pick Piercing";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "B8d-Gp-Xue"; */
+"B8d-Gp-Xue.normalTitle" = "Language";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "Ba3-nm-7C0"; */
+"Ba3-nm-7C0.normalTitle" = "6";
+
+/* Class = "UITextField"; placeholder = "Enter Street Address"; ObjectID = "Bbk-H6-QUD"; */
+"Bbk-H6-QUD.placeholder" = "Enter Street Address";
+
+/* Class = "UITextField"; placeholder = "Additional notes i.e. needles/inks"; ObjectID = "Bje-iI-aix"; */
+"Bje-iI-aix.placeholder" = "Additional notes i.e. needles/inks";
+
+/* Class = "UILabel"; text = "Set Passcode"; ObjectID = "Byb-Uo-Y5H"; */
+"Byb-Uo-Y5H.text" = "Set Passcode";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Website"; ObjectID = "Cav-eg-avs"; */
+"Cav-eg-avs.placeholder" = "Enter Studio Website";
+
+/* Class = "UILabel"; text = "Select Your Piercing Type"; ObjectID = "D4t-S7-WkT"; */
+"D4t-S7-WkT.text" = "Select Your Piercing Type";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "DLj-ot-ekA"; */
+"DLj-ot-ekA.normalTitle" = "3";
+
+/* Class = "UITableViewSection"; headerTitle = "Legalese Editor"; ObjectID = "DjT-VF-MeW"; */
+"DjT-VF-MeW.headerTitle" = "Legalese Editor";
+
+/* Class = "UILabel"; text = "Rate On iTunes!"; ObjectID = "ETa-6z-pMF"; */
+"ETa-6z-pMF.text" = "Rate On iTunes!";
+
+/* Class = "UIButton"; normalTitle = "Add/Delete Artist"; ObjectID = "EUd-CZ-k1S"; */
+"EUd-CZ-k1S.normalTitle" = "Add/Delete Artist";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Efv-vb-bZY"; */
+"Efv-vb-bZY.title" = "Save";
+
+/* Class = "UITextField"; placeholder = "Enter Description Of Your Tattoo"; ObjectID = "ElN-Kh-mx8"; */
+"ElN-Kh-mx8.placeholder" = "Enter Description Of Your Tattoo";
+
+/* Class = "UISegmentedControl"; Em7-Sw-Prm.segmentTitles[0] = "Female"; ObjectID = "Em7-Sw-Prm"; */
+"Em7-Sw-Prm.segmentTitles[0]" = "Female";
+
+/* Class = "UISegmentedControl"; Em7-Sw-Prm.segmentTitles[1] = "Male"; ObjectID = "Em7-Sw-Prm"; */
+"Em7-Sw-Prm.segmentTitles[1]" = "Male";
+
+/* Class = "UISegmentedControl"; Em7-Sw-Prm.segmentTitles[2] = "Private"; ObjectID = "Em7-Sw-Prm"; */
+"Em7-Sw-Prm.segmentTitles[2]" = "Private";
+
+/* Class = "UIBarButtonItem"; title = "Add A New Clause"; ObjectID = "End-o5-Wji"; */
+"End-o5-Wji.title" = "Add A New Clause";
+
+/* Class = "UITableViewSection"; headerTitle = "App Options"; ObjectID = "F3Y-Lg-7Fz"; */
+"F3Y-Lg-7Fz.headerTitle" = "App Options";
+
+/* Class = "UILabel"; text = "You can double tap either previews below to retake the photo."; ObjectID = "F3w-Fu-jHk"; */
+"F3w-Fu-jHk.text" = "You can double tap either previews below to retake the photo.";
+
+/* Class = "UIBarButtonItem"; title = "Restore App Defaults"; ObjectID = "FZh-KX-ujF"; */
+"FZh-KX-ujF.title" = "Restore App Defaults";
+
+/* Class = "UIButton"; normalTitle = "Select Body Placement"; ObjectID = "Fcw-dj-dDO"; */
+"Fcw-dj-dDO.normalTitle" = "Select Body Placement";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GKV-xU-Jyy"; */
+"GKV-xU-Jyy.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Set Artist Passcode"; ObjectID = "GPH-1p-JqE"; */
+"GPH-1p-JqE.normalTitle" = "Set Artist Passcode";
+
+/* Class = "UILabel"; text = "What Is A Cloud Service?"; ObjectID = "GYj-yO-gkd"; */
+"GYj-yO-gkd.text" = "What Is A Cloud Service?";
+
+/* Class = "UILabel"; text = "Parent/Guardian"; ObjectID = "Gen-lj-sZh"; */
+"Gen-lj-sZh.text" = "Parent/Guardian";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "GwB-vb-18y"; */
+"GwB-vb-18y.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H1t-Gf-GwC"; */
+"H1t-Gf-GwC.text" = "Label";
+
+/* Class = "UILabel"; text = "This app is your new digital tattoo/piercing release form. It replaces the paper release form you would normally fill out today. Law requires a new form for each session, but paper is wasteful and not secure.  It saves trees, reduces printer ink, eliminates bulky cabinets, encrypts your data, and helps you quickly auto-fill your infomation. Everybody wins! Including the environment!"; ObjectID = "HAz-nn-feQ"; */
+"HAz-nn-feQ.text" = "This app is your new digital tattoo/piercing release form. It replaces the paper release form you would normally fill out today. Law requires a new form for each session, but paper is wasteful and not secure.  It saves trees, reduces printer ink, eliminates bulky cabinets, encrypts your data, and helps you quickly auto-fill your infomation. Everybody wins! Including the environment!";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "HvT-UY-Zid"; */
+"HvT-UY-Zid.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Background Color"; ObjectID = "I2K-6X-NXZ"; */
+"I2K-6X-NXZ.text" = "Background Color";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Email"; ObjectID = "IBm-9b-5TA"; */
+"IBm-9b-5TA.placeholder" = "Enter Studio Email";
+
+/* Class = "UILabel"; text = "Artist List"; ObjectID = "IEJ-2x-euj"; */
+"IEJ-2x-euj.text" = "Artist List";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "IIa-gV-q6M"; */
+"IIa-gV-q6M.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Minor/Piercee"; ObjectID = "IbX-ga-2u6"; */
+"IbX-ga-2u6.text" = "Minor/Piercee";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Name"; ObjectID = "IlQ-MP-Zvd"; */
+"IlQ-MP-Zvd.placeholder" = "Enter Studio Name";
+
+/* Class = "UILabel"; text = "Color:"; ObjectID = "Io5-9I-U2c"; */
+"Io5-9I-U2c.text" = "Color:";
+
+/* Class = "UIButton"; normalTitle = "reset"; ObjectID = "J6b-Iz-ED6"; */
+"J6b-Iz-ED6.normalTitle" = "reset";
+
+/* Class = "UITextField"; placeholder = "Enter clause here"; ObjectID = "JIu-3n-gFp"; */
+"JIu-3n-gFp.placeholder" = "Enter clause here";
+
+/* Class = "UILabel"; text = "Today's Date:"; ObjectID = "JSb-g6-8mB"; */
+"JSb-g6-8mB.text" = "Today's Date:";
+
+/* Class = "UILabel"; text = "Enter Passcode"; ObjectID = "JmD-Zm-7YP"; */
+"JmD-Zm-7YP.text" = "Enter Passcode";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "KCS-D8-P5X"; */
+"KCS-D8-P5X.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "- Studio name, address, phone number, website, and email."; ObjectID = "KSB-kG-zl2"; */
+"KSB-kG-zl2.text" = "- Studio name, address, phone number, website, and email.";
+
+/* Class = "UILabel"; text = "Allow Under 18 Tattoos"; ObjectID = "KcD-1d-9Wc"; */
+"KcD-1d-9Wc.text" = "Allow Under 18 Tattoos";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "LHo-vF-vxe"; */
+"LHo-vF-vxe.text" = "-";
+
+/* Class = "UILabel"; text = "Choose Photo"; ObjectID = "Lnq-Dm-qhd"; */
+"Lnq-Dm-qhd.text" = "Choose Photo";
+
+/* Class = "UILabel"; text = "T.B."; ObjectID = "Lrh-L8-C1g"; */
+"Lrh-L8-C1g.text" = "T.B.";
+
+/* Class = "UILabel"; text = "Artist Passcode"; ObjectID = "M3b-HV-20W"; */
+"M3b-HV-20W.text" = "Artist Passcode";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "MAK-PB-cKB"; */
+"MAK-PB-cKB.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Studio Logo"; ObjectID = "MCj-E2-Ta5"; */
+"MCj-E2-Ta5.text" = "Studio Logo";
+
+/* Class = "UILabel"; text = "Logo is NOT required but it makes the app look more professional."; ObjectID = "MTe-cZ-ere"; */
+"MTe-cZ-ere.text" = "Logo is NOT required but it makes the app look more professional.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "N4q-9O-4Vg"; */
+"N4q-9O-4Vg.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "NKa-xy-2Jz"; */
+"NKa-xy-2Jz.text" = "Name:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NYF-Jv-NLF"; */
+"NYF-Jv-NLF.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Artists"; ObjectID = "PTl-jZ-WoF"; */
+"PTl-jZ-WoF.title" = "Artists";
+
+/* Class = "UILabel"; text = "A cloud service is a place where you can send digital information from an internet connected device to a company that stores it on their servers. Sort of like an offsite storage thats accessible at anytime.  "; ObjectID = "Pzu-wp-v5a"; */
+"Pzu-wp-v5a.text" = "A cloud service is a place where you can send digital information from an internet connected device to a company that stores it on their servers. Sort of like an offsite storage thats accessible at anytime.  ";
+
+/* Class = "UITextField"; placeholder = "Enter First and Last"; ObjectID = "R7g-De-P0Y"; */
+"R7g-De-P0Y.placeholder" = "Enter First and Last";
+
+/* Class = "UILabel"; text = "Enter 4-Digit Passcode"; ObjectID = "RTQ-RI-SMD"; */
+"RTQ-RI-SMD.text" = "Enter 4-Digit Passcode";
+
+/* Class = "UILabel"; text = "View Privacy Policy"; ObjectID = "ReU-Y6-Qae"; */
+"ReU-Y6-Qae.text" = "View Privacy Policy";
+
+/* Class = "UILabel"; text = "Edit Legalese"; ObjectID = "Rh2-kl-x1V"; */
+"Rh2-kl-x1V.text" = "Edit Legalese";
+
+/* Class = "UINavigationItem"; prompt = "All Studio options and a cloud service are required."; ObjectID = "RsW-G9-QTc"; */
+"RsW-G9-QTc.prompt" = "All Studio options and a cloud service are required.";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "RsW-G9-QTc"; */
+"RsW-G9-QTc.title" = "Settings";
+
+/* Class = "UITableViewSection"; headerTitle = "Cloud Services"; ObjectID = "SEs-GG-4sL"; */
+"SEs-GG-4sL.headerTitle" = "Cloud Services";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "SPr-mn-LKH"; */
+"SPr-mn-LKH.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "Your artist will call you when they're ready."; ObjectID = "SjS-Vn-7kS"; */
+"SjS-Vn-7kS.text" = "Your artist will call you when they're ready.";
+
+/* Class = "UILabel"; text = "If you would like we can send you a digital copy of your aftercare instructions."; ObjectID = "T8h-PT-q7V"; */
+"T8h-PT-q7V.text" = "If you would like we can send you a digital copy of your aftercare instructions.";
+
+/* Class = "UILabel"; text = "Studio Name"; ObjectID = "Tab-tE-uia"; */
+"Tab-tE-uia.text" = "Studio Name";
+
+/* Class = "UILabel"; text = "Blood Thinners"; ObjectID = "U2L-Wt-qZ4"; */
+"U2L-Wt-qZ4.text" = "Blood Thinners";
+
+/* Class = "UILabel"; text = "Studio Address"; ObjectID = "UGd-Li-mCa"; */
+"UGd-Li-mCa.text" = "Studio Address";
+
+/* Class = "UISegmentedControl"; UL0-kx-56m.segmentTitles[0] = "Tattoo"; ObjectID = "UL0-kx-56m"; */
+"UL0-kx-56m.segmentTitles[0]" = "Tattoo";
+
+/* Class = "UISegmentedControl"; UL0-kx-56m.segmentTitles[1] = "Piercing"; ObjectID = "UL0-kx-56m"; */
+"UL0-kx-56m.segmentTitles[1]" = "Piercing";
+
+/* Class = "UILabel"; text = "Anemic (thin blood)"; ObjectID = "Ubi-Tj-pi4"; */
+"Ubi-Tj-pi4.text" = "Anemic (thin blood)";
+
+/* Class = "UIBarButtonItem"; title = "Restore Defaults"; ObjectID = "V5o-gu-6Y6"; */
+"V5o-gu-6Y6.title" = "Restore Defaults";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "VDE-fU-P8d"; */
+"VDE-fU-P8d.text" = "Gender:";
+
+/* Class = "UILabel"; text = "Initial Setup Instructions"; ObjectID = "VZA-Hv-d4k"; */
+"VZA-Hv-d4k.text" = "Initial Setup Instructions";
+
+/* Class = "UILabel"; text = "Select Your Tattoo Placement"; ObjectID = "WaI-af-Dvd"; */
+"WaI-af-Dvd.text" = "Select Your Tattoo Placement";
+
+/* Class = "UILabel"; text = "Welcome To Your Digital Release Form!"; ObjectID = "X5g-xp-PTE"; */
+"X5g-xp-PTE.text" = "Welcome To Your Digital Release Form!";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "X65-xM-wmk"; */
+"X65-xM-wmk.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "- Add at least one Artist"; ObjectID = "X7H-NE-cLa"; */
+"X7H-NE-cLa.text" = "- Add at least one Artist";
+
+/* Class = "UILabel"; text = "Heavy Bleeding"; ObjectID = "XQw-33-rwk"; */
+"XQw-33-rwk.text" = "Heavy Bleeding";
+
+/* Class = "UILabel"; text = "App Background Color"; ObjectID = "XYM-fa-XBS"; */
+"XYM-fa-XBS.text" = "App Background Color";
+
+/* Class = "UILabel"; text = "Send Us Feedback!"; ObjectID = "XYc-Wa-93V"; */
+"XYc-Wa-93V.text" = "Send Us Feedback!";
+
+/* Class = "UILabel"; text = "Scarring/Keloiding"; ObjectID = "Y1s-MZ-R7W"; */
+"Y1s-MZ-R7W.text" = "Scarring/Keloiding";
+
+/* Class = "UILabel"; text = "  Please check any and all conditions that apply to you as listed below:"; ObjectID = "Y3q-VR-rbY"; */
+"Y3q-VR-rbY.text" = "  Please check any and all conditions that apply to you as listed below:";
+
+/* Class = "UILabel"; text = "Zip:"; ObjectID = "Y4h-ES-9iP"; */
+"Y4h-ES-9iP.text" = "Zip:";
+
+/* Class = "UILabel"; text = "Have you eaten in the last 4 hours?"; ObjectID = "YeK-Px-tvK"; */
+"YeK-Px-tvK.text" = "Have you eaten in the last 4 hours?";
+
+/* Class = "UITextField"; placeholder = "Enter Phone Number"; ObjectID = "Z9G-IK-0Ea"; */
+"Z9G-IK-0Ea.placeholder" = "Enter Phone Number";
+
+/* Class = "UILabel"; text = "BIrthdate:"; ObjectID = "Za7-Hc-enm"; */
+"Za7-Hc-enm.text" = "BIrthdate:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zbh-N0-1RS"; */
+"Zbh-N0-1RS.text" = "Label";
+
+/* Class = "UILabel"; text = "Are you allergic to latex?"; ObjectID = "aHG-9K-5A8"; */
+"aHG-9K-5A8.text" = "Are you allergic to latex?";
+
+/* Class = "UINavigationItem"; title = "Client Queue"; ObjectID = "b6x-Q3-2hF"; */
+"b6x-Q3-2hF.title" = "Client Queue";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "b9j-Vq-Qf0"; */
+"b9j-Vq-Qf0.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "The default background color is white."; ObjectID = "bCo-cr-ecf"; */
+"bCo-cr-ecf.text" = "The default background color is white.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bGD-zR-2fg"; */
+"bGD-zR-2fg.text" = "Label";
+
+/* Class = "UITableViewSection"; headerTitle = "Privacy Policy"; ObjectID = "bdG-OP-gNo"; */
+"bdG-OP-gNo.headerTitle" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Is this person getting a tattoo or piercing?"; ObjectID = "bgX-a2-tER"; */
+"bgX-a2-tER.text" = "Is this person getting a tattoo or piercing?";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "c7n-mH-g7k"; */
+"c7n-mH-g7k.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Reset Studio Logo"; ObjectID = "cqe-NQ-ebu"; */
+"cqe-NQ-ebu.normalTitle" = "Reset Studio Logo";
+
+/* Class = "UILabel"; text = "Studio Phone Number"; ObjectID = "dJe-aD-xu9"; */
+"dJe-aD-xu9.text" = "Studio Phone Number";
+
+/* Class = "UILabel"; text = "Is the person getting the procedure over 18?"; ObjectID = "dTq-hF-gFb"; */
+"dTq-hF-gFb.text" = "Is the person getting the procedure over 18?";
+
+/* Class = "UILabel"; text = "Please sign with your finger below."; ObjectID = "dXw-lB-T99"; */
+"dXw-lB-T99.text" = "Please sign with your finger below.";
+
+/* Class = "UISearchBar"; placeholder = "Been here before? Search for yourself to auto-fill your info."; ObjectID = "dcW-Xs-0JH"; */
+"dcW-Xs-0JH.placeholder" = "Been here before? Search for yourself to auto-fill your info.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ddF-jQ-5z4"; */
+"ddF-jQ-5z4.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "The Legalese are legal clauses the client must agree to and initial in order to get a tattoo/piercing."; ObjectID = "dpw-jD-Fgo"; */
+"dpw-jD-Fgo.text" = "The Legalese are legal clauses the client must agree to and initial in order to get a tattoo/piercing.";
+
+/* Class = "UILabel"; text = "This passcode allows access to the Queue only. Ideal for artists."; ObjectID = "e5h-zw-tbM"; */
+"e5h-zw-tbM.text" = "This passcode allows access to the Queue only. Ideal for artists.";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "eAb-E7-8Ff"; */
+"eAb-E7-8Ff.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "Do you have Mitral Valve Prolapse or any other heart condition that requires Antibiotics \t\t\tbefore dental work or other medical procedures?"; ObjectID = "eIE-Wb-OhC"; */
+"eIE-Wb-OhC.text" = "Do you have Mitral Valve Prolapse or any other heart condition that requires Antibiotics \t\t\tbefore dental work or other medical procedures?";
+
+/* Class = "UILabel"; text = "Other risk factor for blood borne pathogens(HIV, AIDS, any other communicable disease)"; ObjectID = "eKu-4U-CJK"; */
+"eKu-4U-CJK.text" = "Other risk factor for blood borne pathogens(HIV, AIDS, any other communicable disease)";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "eT2-LM-n3S"; */
+"eT2-LM-n3S.title" = "Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eTR-ea-WcQ"; */
+"eTR-ea-WcQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Diabetes"; ObjectID = "egA-dd-zux"; */
+"egA-dd-zux.text" = "Diabetes";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "euY-gt-Eh0"; */
+"euY-gt-Eh0.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "2. Enter the default master passcode: 1234"; ObjectID = "f9u-xF-9EJ"; */
+"f9u-xF-9EJ.text" = "2. Enter the default master passcode: 1234";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "fpr-EH-g9O"; */
+"fpr-EH-g9O.normalTitle" = "6";
+
+/* Class = "UILabel"; text = "Master Passcode"; ObjectID = "fwu-OR-sVa"; */
+"fwu-OR-sVa.text" = "Master Passcode";
+
+/* Class = "UILabel"; text = "Select how this clause is shown"; ObjectID = "gve-C1-5jE"; */
+"gve-C1-5jE.text" = "Select how this clause is shown";
+
+/* Class = "UILabel"; text = "Parent/Guardian"; ObjectID = "h49-Za-Yo3"; */
+"h49-Za-Yo3.text" = "Parent/Guardian";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "hRc-Y7-c2l"; */
+"hRc-Y7-c2l.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "Release & Waiver Of All Claims"; ObjectID = "hyf-Ht-3D8"; */
+"hyf-Ht-3D8.text" = "Release & Waiver Of All Claims";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iO3-a3-0EK"; */
+"iO3-a3-0EK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "iPa-7g-Jgf"; */
+"iPa-7g-Jgf.text" = "Age:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "izy-GB-KHW"; */
+"izy-GB-KHW.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Reset Background Color"; ObjectID = "jDP-ou-DEZ"; */
+"jDP-ou-DEZ.normalTitle" = "Reset Background Color";
+
+/* Class = "UILabel"; text = "Epilepsy"; ObjectID = "jOc-F9-8sN"; */
+"jOc-F9-8sN.text" = "Epilepsy";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[0] = "Tattoo"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[0]" = "Tattoo";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[1] = "Piercing"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[1]" = "Piercing";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[2] = "Both"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[2]" = "Both";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "jZ8-ep-GzF"; */
+"jZ8-ep-GzF.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jdt-JV-om8"; */
+"jdt-JV-om8.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "12345"; ObjectID = "jws-fk-PNJ"; */
+"jws-fk-PNJ.placeholder" = "12345";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "kJr-iZ-L94"; */
+"kJr-iZ-L94.normalTitle" = "7";
+
+/* Class = "UIBarButtonItem"; title = "Queue"; ObjectID = "l9R-bA-Mh0"; */
+"l9R-bA-Mh0.title" = "Queue";
+
+/* Class = "UILabel"; text = "Fainting"; ObjectID = "lRl-Ue-HPc"; */
+"lRl-Ue-HPc.text" = "Fainting";
+
+/* Class = "UIBarButtonItem"; title = "Cancel Form"; ObjectID = "lXw-cS-kU1"; */
+"lXw-cS-kU1.title" = "Cancel Form";
+
+/* Class = "UILabel"; text = "Minor/Piercee"; ObjectID = "llq-Bo-HvI"; */
+"llq-Bo-HvI.text" = "Minor/Piercee";
+
+/* Class = "UILabel"; text = "Type Of Piercing:"; ObjectID = "lww-Xq-EJ7"; */
+"lww-Xq-EJ7.text" = "Type Of Piercing:";
+
+/* Class = "UILabel"; text = "City:"; ObjectID = "mVM-In-1s0"; */
+"mVM-In-1s0.text" = "City:";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "mXO-JO-qf2"; */
+"mXO-JO-qf2.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Opacity:"; ObjectID = "nJs-Fd-hgm"; */
+"nJs-Fd-hgm.text" = "Opacity:";
+
+/* Class = "UILabel"; text = "Skin Conditions"; ObjectID = "nNZ-lV-mRb"; */
+"nNZ-lV-mRb.text" = "Skin Conditions";
+
+/* Class = "UILabel"; text = "1. Tap the Settings gear in the upper left hand corner."; ObjectID = "nUz-Vd-G6Q"; */
+"nUz-Vd-G6Q.text" = "1. Tap the Settings gear in the upper left hand corner.";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "nZ5-wa-oGB"; */
+"nZ5-wa-oGB.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "Tap To Pick State"; ObjectID = "nsE-ao-j5L"; */
+"nsE-ao-j5L.normalTitle" = "Tap To Pick State";
+
+/* Class = "UILabel"; text = "Select Your State"; ObjectID = "nuL-AK-ecn"; */
+"nuL-AK-ecn.text" = "Select Your State";
+
+/* Class = "UIButton"; normalTitle = "Tap To Pick Birthdate"; ObjectID = "oJ7-Oe-eFK"; */
+"oJ7-Oe-eFK.normalTitle" = "Tap To Pick Birthdate";
+
+/* Class = "UILabel"; text = "Studio Website"; ObjectID = "oQ9-Hs-ZSy"; */
+"oQ9-Hs-ZSy.text" = "Studio Website";
+
+/* Class = "UILabel"; text = "Tattoo Placement:"; ObjectID = "oqB-1p-WZg"; */
+"oqB-1p-WZg.text" = "Tattoo Placement:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "osm-mW-Oyc"; */
+"osm-mW-Oyc.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "- Link a cloud Service (iCloud, Dropbox, BOX) "; ObjectID = "p06-dU-iVg"; */
+"p06-dU-iVg.text" = "- Link a cloud Service (iCloud, Dropbox, BOX) ";
+
+/* Class = "UILabel"; text = "4. Tap \"Done\" to save "; ObjectID = "p4L-h0-NYe"; */
+"p4L-h0-NYe.text" = "4. Tap \"Done\" to save ";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Address"; ObjectID = "p7u-PO-ttT"; */
+"p7u-PO-ttT.placeholder" = "Enter Studio Address";
+
+/* Class = "UITableViewSection"; headerTitle = "Send Feedback"; ObjectID = "p9A-Yk-r2Q"; */
+"p9A-Yk-r2Q.headerTitle" = "Send Feedback";
+
+/* Class = "UILabel"; text = "Select Your Artist"; ObjectID = "pXz-PU-rYO"; */
+"pXz-PU-rYO.text" = "Select Your Artist";
+
+/* Class = "UITextField"; placeholder = "Enter Email Address"; ObjectID = "pZB-DJ-akj"; */
+"pZB-DJ-akj.placeholder" = "Enter Email Address";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "psi-GJ-Q2f"; */
+"psi-GJ-Q2f.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "qL5-8w-rgC"; */
+"qL5-8w-rgC.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "qXT-ce-Vt2"; */
+"qXT-ce-Vt2.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "rWs-40-SzM"; */
+"rWs-40-SzM.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "sFi-ZU-6fN"; */
+"sFi-ZU-6fN.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "Tap To Pick Artist"; ObjectID = "uAl-lJ-22n"; */
+"uAl-lJ-22n.normalTitle" = "Tap To Pick Artist";
+
+/* Class = "UILabel"; text = "Current Image:"; ObjectID = "uDH-nU-6hp"; */
+"uDH-nU-6hp.text" = "Current Image:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uVL-35-bdh"; */
+"uVL-35-bdh.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "This app requires the use of a cloud service. Any one of the following are appoved for this app. Tap on the icon so set up your account now."; ObjectID = "ufy-FU-M0U"; */
+"ufy-FU-M0U.text" = "This app requires the use of a cloud service. Any one of the following are appoved for this app. Tap on the icon so set up your account now.";
+
+/* Class = "UILabel"; text = "State:"; ObjectID = "uie-UO-Xpi"; */
+"uie-UO-Xpi.text" = "State:";
+
+/* Class = "UILabel"; text = "Hepatitis B/C"; ObjectID = "vTs-bA-mNM"; */
+"vTs-bA-mNM.text" = "Hepatitis B/C";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "vz6-x4-pu4"; */
+"vz6-x4-pu4.normalTitle" = "Set";
+
+/* Class = "UILabel"; text = "Studio Logo"; ObjectID = "wUK-Va-kRF"; */
+"wUK-Va-kRF.text" = "Studio Logo";
+
+/* Class = "UILabel"; text = "Enter your legal clause below."; ObjectID = "wWx-Zb-GLe"; */
+"wWx-Zb-GLe.text" = "Enter your legal clause below.";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "wYl-eM-34l"; */
+"wYl-eM-34l.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "Herpes"; ObjectID = "wh8-T4-wOS"; */
+"wh8-T4-wOS.text" = "Herpes";
+
+/* Class = "UIButton"; normalTitle = "Del"; ObjectID = "xah-DT-G8A"; */
+"xah-DT-G8A.normalTitle" = "Del";
+
+/* Class = "UILabel"; text = "Heart Condition"; ObjectID = "yeF-l4-51w"; */
+"yeF-l4-51w.text" = "Heart Condition";
+
+/* Class = "UIBarButtonItem"; title = "Cancel Form"; ObjectID = "yxA-Ln-cZ0"; */
+"yxA-Ln-cZ0.title" = "Cancel Form";
+
+/* Class = "UITextField"; placeholder = "Initials"; ObjectID = "zt7-Ge-gyZ"; */
+"zt7-Ge-gyZ.placeholder" = "Initials";

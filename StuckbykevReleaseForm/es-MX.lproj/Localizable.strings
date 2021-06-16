@@ -1,0 +1,602 @@
+/*
+ Localizable.strings
+ StuckByKev Release Form
+ Spanish (Mexico)
+ Created by Kevin Green on 7/2/17.
+ Copyright © 2017 Kevin Green. All rights reserved.
+ */
+
+
+"Search for yourself to auto-fill" = "Busque usted mismo para autocompletar";
+"Tap the start button to begin a new form" = "Toque el botón de inicio para comenzar un nuevo formulario";
+"Long press to show the help tutorial" = "Mantenga presionado para mostrar el tutorial de ayuda";
+"Enter Name - First and Last" = "Ingrese nombre - Nombre y apellido";
+"Signature(s)" = "Firma(s)";
+"All Legal Clauses" = "Todas las Cláusulas Legales";
+"Personal Info" = "Información Personal";
+"Shop Info" = "Información de la Tienda";
+"Photograph ID(s)" = "ID(s) de Fotografía";
+
+
+
+
+"- Studio name, address, phone number, website, and email." = "- Studio Nombre, dirección, número de teléfono, sitio web, y correo electrónico.";
+"Accept" = "Aceptar";
+"access token url not defined" = "URL de token de acceso no definida";
+"Add" = "Añadir";
+"Add Artist Name" = "Añadir Nombre Del Artista";
+"Address:" = "Dirección:";
+"Age:" = "Edad:";
+"Age" = "Edad";
+"Align your ID with the iPad camera at the top and take a photo of your ID." = "Alinear su identificación con la cámara del iPad en la parte superior y tomar una foto de su identificación.";
+"All information in a \"required\" section must be complete before the app can be used: \n\(missingInfo())" = "Toda la información en una \"required\" sección debe ser completa antes de la aplicación se puede utilizar: \n\(missingInfo())";
+"Allergic To Latex" = "Es Alérgico Al Látex";
+"Anemic (thin blood)" = "Anémico (sangre fina)";
+"App Reset" = "Restablecimiento De La Aplicación";
+"Are You Sure?" = "Estás seguro?";
+"Are you sure you want to cancel this form?" = "Seguro que desea cancelar este formulario?";
+"Are you sure you want to completely restore the app settings to default? This will delete all app information. This will NOT delete any information stored in the cloud." = "Estás seguro de que quieres restaurar por completo la configuración de la aplicación? Esto eliminará toda la información de la aplicación. Esto NO eliminará ninguna información almacenada en la nube.";
+"Are you sure you want to reset to defult?" = "Está seguro de que desea restablecer a los valores predeterminados?";
+"Arm" = "Brazo";
+"Artist Array" = "Arreglo del artista";
+"Artist Passcode Set" = "Conjunto De Código De Acceso Del Artista";
+"Artist's Name:" = "Nombre Del Artista:";
+"Artist Name" = "Nombre Del Artista";
+"Auto-Fill" = "Relleno Automático";
+"Auto-Fill Initials" = "Auto-Fill Iniciales";
+"Back" = "Volver";
+"Been here before? Search for yourself to auto-fill your info." = "Ha estado aquí antes? Busque usted mismo para rellenar automáticamente su información.";
+"Birth Date" = "Fecha De Nacimiento";
+"Birthdate:" = "Fecha De Nacimiento:";
+"Birthdate" = "Fecha De Nacimiento";
+"Blood Thinners" = "Anticoagulantes";
+"Both" = "Ambos";
+"By my signature below, I certify under Penalty Of Perjury that the information provided is true and correct, and that I am at least 18 years of age or older; (or have a parent present with ID’s). I further understand that, if I give false information or produce false documents stating my name and age to be other that what is correct, I am liable for prosecution." = "Al firmar a continuación, certifico bajo pena de perjurio que la información proporcionada es verdadera y correcta, y que estoy por lo menos 18 años de edad o más; (O tener un padre presente con ID's). Entiendo además que, si doy información falsa o doy falsos documentos que indiquen mi nombre y edad para que sean otros que lo que es correcto, soy responsable de enjuiciamiento.";
+"By selecting accept, you acknowlege all information provided is true and correct" = "Al seleccionar aceptar, usted reconoce que toda la información proporcionada es verdadera y correcta";
+"Cancel" = "Cancelar";
+"Cancel Form" = "Cancelar Formulario";
+"Cannot open AppStore" = "No se puede abrir AppStore";
+"Center" = "Centrar";
+"Change" = "Cambio";
+"City:" = "Ciudad:";
+"City" = "Ciudad";
+"Clear Signature" = "Firma Clara";
+"Clound Service" = "Servicio de la nube";
+"Confirm Restore App Settings" = "Confirmar configuración de la aplicación de restauración";
+"Confirmation" = "Confirmación";
+"Continue" = "Continuar";
+"Could not get Access Token" = "No se pudo obtener el token de acceso";
+"Del" = "Del";
+"Description" = "Descripción";
+"Description Of Tattoo" = "Descripción Del Tatuaje";
+"Diabetes" = "Diabetes";
+"Do you have Mitral valve Prolapse or any other heart condition that requres antibiotics before dental work or other medical procedures?" = "Tiene Prolapso de Mitral Válvula o cualquier otra afección cardíaca que requiera antibióticos antes del trabajo dental u otros procedimientos médicos?";
+"Done" = "Terminado";
+"E-Mail:" = "Correo Electrónico:";
+"E-mail Address:" = "Dirección De Correo Electrónico:";
+"Eczema/Psoriasis" = "Eczema/Psoriasis";
+"Enter Artist Name" = "Introduzca El Nombre Del Artista";
+"Enter City" = "Entrar En La ciudad";
+"Enter Description Of Your Tattoo" = "Introduzca La Descripción De Su Tatuaje";
+"Enter Email" = "Ingrese correo electrónico";
+"Enter Email Address" = "Introducir La Dirección De Correo Electrónico";
+"Enter First and Last" = "Introducir primero y último";
+"Enter Phone Number" = "Ingresa Número Telefónico";
+"Enter Street Address" = "Introduzca la dirección de la calle";
+"Epilepsy" = "Epilepsia";
+"Fainting" = "Desmayo";
+"Female" = "Hembra";
+"Finish & Upload" = "Finalizar Y Subir";
+"First Name" = "Primer Nombre";
+"Foot" = "Pie";
+"Gender:" = "Género:";
+"Gender" = "Género";
+"Hand" = "Mano";
+"Eaten in last 4 hours?"  = "Has comido en las últimas 4 horas?";
+"Head/Face" = "Cabeza/Rostro";
+"Health" = "Salud";
+"Heart Conditions" = "Problemas Cardiacos";
+"Heavy Bleeding" = "Sangrado intenso";
+"Hepatitis B/C" = "Hepatitis B/C";
+"Herpes" = "Herpes";
+
+"I have truthfully represented to YOUR STUDIO NAME that I am eighteen(18) years of age or older." = "He representado sinceramente a YOUR STUDIO NAME que tengo dieciocho (18) años de edad o más.";
+
+"I acknowledge that it is not reasonably possible for the representatives and employees of YOUR STUDIO NAME to determine whether I might have and allergic reaction to any metals, inks or materials used during the procedure, and I agree to accept the risk that such a reactions is possible." = "Reconozco que no es razonablemente posible que los representantes y empleados de YOUR STUDIO NAME determinen si podría tener una reacción alérgica a los metales, las tintas o los materiales utilizados durante el procedimiento y acepto el riesgo de que tales reacciones sean posible.";
+
+"I acknowledge that I have advised my artist of any conditions that might affect the healing of this Tattoo/Piercing. I do not have any medical or skin conditions such as but not limited to: acne, scarring, eczema, psoriasis, freckles, moles, or sunburn in the area to be Tattooed/Pierced that may interfere with said Tattoo/Piercing. If I have any infection or rash anywhere on my body, I will advise the artist." = "Reconozco que he aconsejado a mi artista de cualquier condición que pudiera afectar la curación de este tatuaje/perforación. No tengo ninguna condición médica o de la piel tal como pero no limitado a: acné, cicatrices, eczema, psoriasis, pecas, lunares o quemaduras solares en el área a ser tatuado/perforado que puede interferir con dicho tatuaje/perforación. Si tengo alguna infección o erupción en cualquier parte de mi cuerpo, aconsejaré al artista.";
+
+"I am NOT pregnant or nursing." = "No estoy embarazada o amamantando.";
+
+"I am NOT under the influence of alcohol or drugs." = "No estoy bajo la influencia del alcohol o las drogas.";
+
+"I acknowledge that infection is always possible when obtaining a Tattoo/Piercing, particularly in the event that I do not take proper care of my Tattoo/Piercing. I have received aftercare instructions and I agree to follow them while my Tattoo/Piercing is healing." = "Reconozco que la infección es siempre posible al obtener un tatuaje/perforación, particularmente en el caso de que no tomo el cuidado apropiado de mi tatuaje/perforación. He recibido instrucciones posteriores y estoy de acuerdo en seguirlas mientras mi tatuaje/perforación está sanando.";
+
+"I acknowledge that a Tattoo/Piercing is a permanent chance to my appearance. To my knowledge, I do NOT have physical, mental or medical impairment or disability which might affect my well being as a direct or indirect result of my decision to have a Tattoo/Piercing." = "Reconozco que un tatuaje/perforación es una oportunidad permanente a mi apariencia. A mi conocimiento, NO tengo impedimentos físicos, mentales o médicos que puedan afectar mi bienestar como resultado directo o indirecto de mi decisión de tener una tatuaje/perforación.";
+
+"I acknowledge the decision for obtaining my Tattoo/Piercing is my own free will and choice. I consent to the location of the Tattoo/Piercing and performance of the Tattoo/Piercing procedure." = "Reconozco la decisión para obtener mi tatuaje/perforación es mi propia voluntad libre y la opción. Consiento la localización del tatuaje/perforación y el funcionamiento del procedimiento del tatuaje/perforación.";
+
+"I acknowledge and agree to following any and all instructions given to me regarding the maintenance of a sanitary environment while I am being Tattooed/Pierced." = "Reconozco y acepto seguir todas y cada una de las instrucciones dadas a mí con respecto a la mantenimiento de un ambiente sanitario mientras estoy Tatuado/Traspasado.";
+
+"I agree to IMMEDIATELY notify my artist if I feel lightheaded, dizzy, and/or faint before, during or after the procedure. Failure to do so releases YOUR STUDIO NAME and the artists of all responsibility." = "Acepto notificar INMEDIATAMENTE a mi artista si me siento mareado, mareado y/o desmayo antes, durante o después del procedimiento. Si no lo hace, lanzará YOUR STUDIO NAME y los artistas de toda responsabilidad.";
+
+"Identification" = "Identificación";
+"If you would like, we can send you a digital copy of your aftercare instructions." = "Si desea le podemos enviar una copia digital de sus instrucciones de cuidado posterior.";
+"Information" = "Información";
+"Initials" = "Iniciales";
+"Is the person getting a tattoo or piercing?" = "Esta persona está haciendo un tatuaje y piercing?";
+"Is the person getting the procedure over 18?" = "Es la persona que recibe el procedimiento de más de 18 años?";
+"Last Name" = "Apellido";
+"Left" = "Izquierda";
+"Left/Full" = "Izquierda/Lleno";
+"Left/Lower" = "Izquierda/Bajo";
+"Left/Upper" = "Izquierda/De Arriba";
+"Leg" = "Pata";
+"Legal" = "Legal";
+"Legal Section" = "Legal Sección";
+"Legalese" = "Legalese";
+"Legalese Editor" = "Legalese Editor";
+"Long press to show the help tutorial" = "Mantenga presionada para mostrar el tutorial de ayuda";
+"Make Changes" = "Hacer Cambios";
+"Male" = "Macho";
+"Master Passcode Set" = "Establecer Contraseña Maestra";
+"Minor/Piercee" = "Menor/Piercee";
+"Name" = "Nombre";
+"Name:" = "Nombre:";
+"No" = "No";
+"No ID Photo Taken" = "No Se Ha Tomado Foto De Identificación";
+"Ok" = "Ok";
+"Oops" = "Oops";
+"Optional" = "Opcional";
+"Other" = "Otro";
+"Other, Not Listed" = "Otros, No Listados";
+"Other risk factor for blood borne pathogens(HIV, AIDS, any other communicable disease)" = "Otro factor de riesgo para patógenos transmitidos por la sangre (VIH, SIDA, cualquier otra enfermedad transmisible)";
+"Parent/Guardian" = "Parientes";
+"Phone:" = "Teléfono:";
+"Phone Number" = "Número De Teléfono";
+"Piercing" = "Perforación";
+"Piercing: " = "Perforación: ";
+"piercing" = "perforación";
+"Placement Of Tattoo" = "Colocación Del Tatuaje";
+"Please check any and all conditions that apply to you as listed below:" = "Por favor, compruebe todas y cada una de las condiciones que se aplican a usted como se indica a continuación:";
+"Please check the information and edit it if the auto-fill is out of date." = "Compruebe la información y edítela si el relleno automático no está actualizado.";
+"Please sign with your finger below" = "Por favor firme con el dedo a continuación";
+"Please Try Again" = "Inténtalo de nuevo";
+"Pregnant/Nursing" = "Embarazada/Enfermería";
+"Preview it" = "Vista Previa";
+"Privacy Policy" = "Política de privacidad";
+"Private" = "Privado";
+"Queue" = "En Cola";
+"Release & Waiver Of All Claims" = "Liberación y Renuncia De Todas Las Reclamaciones";
+"Reset" = "Reajustar";
+"Right" = "Lado derecho";
+"Right/Full" = "Derecha/Lleno";
+"Right/Lower" = "Derecha/Bajo";
+"Right/Upper" = "Derecha/De arriba";
+"Save" = "Salvar";
+"Scarring/Keloiding" = "Cicatrices/Keloiding";
+"Select Body Placement" = "Seleccione La Colocación Del Cuerpo";
+"Select Your Artist" = "Seleccione su Artista";
+"Select Your Birthdate" = "Seleccione Au Nacimiento";
+"Select Your Birthday" = "Seleccione Su Cumpleaños";
+"Select Your Piercing Type" = "Seleccione El tipo De Perforación";
+"Select Your State" = "Seleccione su estado";
+"Select Your Tattoo Placement" = "Seleccione Su Colocación Del Tatuaje";
+"Send by Email" = "Enviar Por Correo Electrónico";
+"Signature" = "Firma";
+"Skin Conditions" = "Condiciones De La Piel";
+"Something went wrong connectiong to your camera. Plese check your settings and try again.\n \(error.localizedDescription)" = "Algo salió mal la conexión a la cámara. Comprueba la configuración e inténtalo de nuevo.\n \(error.localizedDescription)";
+"Start" = "Empiezo";
+"State:" = "Estado:";
+"State" = "Estado";
+"Street Address" = "Sirección De La Calle";
+"Studio Address" = "Studio Dirección";
+"Studio Email" = "Studio Correo Electrónico";
+"Studio Name" = "Studio Nombre";
+"Studio Phone Number" = "Studio Número de teléfono";
+"Studio Website" = "Studio Sitio web";
+"T.B." = "T.B.";
+"Take A Photo Of Your ID" = "Tome una foto de su ID";
+"Tap To Pick Artist" = "Toque para seleccionar artista";
+"Tap To Pick Birthdate" = "Fecha De Nacimiento";
+"Tap To Pick Piercing" = "Toque Tara escoger Piercing";
+"Tap To Pick State" = "Toque Escoger Estado";
+"Tattoo" = "Tatuaje";
+"Tattoo: " = "Tatuaje: ";
+"tattoo" = "tatuaje";
+"Tattoo Placement:" = "La Colocación De Tatuajes:";
+"Thank you for your recent \(tatORpierce!) from \(studioName!)\n Here is your requested copy of your aftercare instructions." = "Gracias por su reciente \(tatORpierce!) de \(studioName!)\n Aquí está su copia solicitada de sus instrucciones de cuidado posterior.";
+"Thank you for your recent tattoo/piercing from \(studioName!)\n Here is your requested copy of your release form." = "Gracias por su reciente tatuaje / piercing de \(studioName!)\n Aquí está su copia solicitada de su formulario de liberación.";
+"Thats it, your all done!" = "Eso es todo, todo está hecho!";
+"The app settings have been restored." = "Se han restaurado los ajustes de la aplicación.";
+"The birthdate you entered does not match the birthdate for the name chosen." = "La fecha de nacimiento introducida no coincide con la fecha de nacimiento del nombre elegido.";
+"The legal clauses have been set to defult." = "Las cláusulas legales se han restablecido a los valores predeterminados.";
+"There was an error." = "Hubo un error";
+"This app is your new digital tattoo/piercing release form. It replaces the paper release form you would normally fill out today. Law requires a new form for each session, but paper is wasteful and not secure.  It saves trees, reduces printer ink, eliminates bulky cabinets, encrypts your data, and helps you quickly auto-fill your infomation. Everybody wins! Including the environment!" = "Esta aplicación es su nuevo tatuaje digital/forma de liberación piercing. Sustituye a la forma de liberación de papel que normalmente se complete la actualidad. La ley requiere una nueva forma para cada sesión, pero el papel es derrochador y no seguro. Se ahorra árboles, reduce la tinta de la impresora, elimina armarios voluminosos, cifra sus datos y le ayuda rápidamente auto-llenar su infomación. Todo el mundo gana! Incluyendo el medio ambiente!";
+"This will also reset the app passcodes and delete any clients in the queue." = "Esto también restablecerá las contraseñas de la aplicación y eliminará cualquier cliente de la cola.";
+"Today's Date:" = "La Fecha De Hoy:";
+"Torso/Ribs" = "Torso/Costillas";
+"Tuberculosis" = "Tuberculose";
+"Type Of Piercing" = "Tipo De Perforación";
+"Type Of Piercing:" = "Tipo De Perforación:";
+"Under Age" = "Menor De Edad";
+"We're sorry, you must be 18 or older to get a tattoo." = "Lo sentimos, debe tener 18 años o más para hacerse un tatuaje.";
+"Welcome To Your Digital Release Form!" = "Bienvenido a su formulario de liberación digital!";
+"Wrong Birthdate" = "Fecha De Nacimiento Incorrecta";
+"Wrong Format" = "Formato Incorrecto";
+"Wrong Password" = "Contraseña incorrecta";
+"Yeah!" = "Yeah!";
+"Yes" = "Si";
+"You can double tap either preview below to clear the photo." = "Puede pulsar dos veces en la vista previa para volver a tomar la foto.";
+"You can double tap the preview below to clear the photo" = "Puede pulsar dos veces en la vista previa para volver a tomar la foto.";
+"You must complete all information before saving your form:" = "Debe completar toda la información antes de guardar su formulario:";
+"You must take a picture of your ID(s) before you can continue." = "Debe tomar una foto de su identificación (s) antes de continuar.";
+"Your Aftercare Instructions" = "Tus Instrucciones De Cuidado Posterior";
+"Your artist will call you when they're ready." = "Su artista le llamará cuando estén listos.";
+"Your \(studioName!) Release Form" = "Tus \(studioName!) Forma de liberación";
+"Your first and last names must be separated by a space." = "Sus nombres y apellidos deben estar separados por un espacio.";
+"Your invoice has been successfully printed to a PDF file.\n\nWhat do you want to do now?" = "Su factura ha sido impresa con éxito en un archivo PDF.\n\nQué quieres hacer ahora?";
+"YOUR STUDIO NAME" = "YOUR STUDIO NAME";
+"Zip:" = "Código Postal:";
+"Zip Code" = "Código Postal";
+
+
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "1ec-Ce-cxW"; */
+"1ec-Ce-cxW.title" = "Cancelar";
+
+/* Class = "UILabel"; text = "3. Provide at least the following:"; ObjectID = "2r4-ql-3JS"; */
+"2r4-ql-3JS.text" = "3. Proporcionar al menos lo siguiente:";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "2y8-ZA-sLF"; */
+"2y8-ZA-sLF.title" = "Salvar";
+
+/* Class = "UITextField"; placeholder = "Enter Lot #'s"; ObjectID = "4WV-FS-yzS"; */
+"4WV-FS-yzS.placeholder" = "Entrar En Lote #'s";
+
+/* Class = "UIButton"; normalTitle = "Set Master Passcode"; ObjectID = "4sn-zv-08d"; */
+"4sn-zv-08d.normalTitle" = "Establecer Contraseña Maestra";
+
+/* Class = "UITableViewSection"; headerTitle = "Studio Options"; ObjectID = "5Hd-wF-auk"; */
+"5Hd-wF-auk.headerTitle" = "Opciones De Studio";
+
+/* Class = "UILabel"; text = "Turn this on if your state allows persons under the age of 18 to get tattoos. Off by default"; ObjectID = "5dn-u3-QKX"; */
+"5dn-u3-QKX.text" = "Activar esta opción si su estado permite que las personas menores de 18 años que se hacen tatuajes. Desactivada por defecto";
+
+/* Class = "UILabel"; text = "Dropbox"; ObjectID = "5zA-t6-gJP"; */
+"5zA-t6-gJP.text" = "Dropbox";
+
+/* Class = "UILabel"; text = "This passcode allows access to these setting and can also be used to access the Queue. Ideal for owners/managers."; ObjectID = "6cu-Hq-cYY"; */
+"6cu-Hq-cYY.text" = "Este código de acceso permite acceder a estos ajustes y también puede utilizarse para acceder a la cola. Ideal para propietarios/Gerentes.";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "6t7-PL-Vax"; */
+"6t7-PL-Vax.normalTitle" = "7";
+
+/* Class = "UIBarButtonItem"; title = "Continue"; ObjectID = "782-Ue-dGk"; */
+"782-Ue-dGk.title" = "Continue";
+
+/* Class = "UILabel"; text = "Studio Email"; ObjectID = "7RP-gM-DdE"; */
+"7RP-gM-DdE.text" = "Correo Electrónico De Studio";
+
+/* Class = "UILabel"; text = "Relesase Form needs some basic info in order for the app to function. You can always change things later too."; ObjectID = "7j1-QS-RV0"; */
+"7j1-QS-RV0.text" = "Release Form necesita información básica para que la aplicación funcione. Siempre se puede cambiar las cosas más adelante también.";
+
+/* Class = "UILabel"; text = "Preview PDF"; ObjectID = "8aJ-P0-Noi"; */
+"8aJ-P0-Noi.text" = "Preestreno PDF";
+
+/* Class = "UILabel"; text = "Box"; ObjectID = "8wc-ea-y0W"; */
+"8wc-ea-y0W.text" = "BOX";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Phone Number"; ObjectID = "A4D-YQ-4FI"; */
+"A4D-YQ-4FI.placeholder" = "Ingrese El Número De tTeléfono Del Studio";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "AMW-gd-qQU"; */
+"AMW-gd-qQU.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "Ba3-nm-7C0"; */
+"Ba3-nm-7C0.normalTitle" = "6";
+
+/* Class = "UITextField"; placeholder = "Additional notes i.e. needles/inks"; ObjectID = "Bje-iI-aix"; */
+"Bje-iI-aix.placeholder" = "Notas adicionales i.e. Agujas/tinta";
+
+/* Class = "UILabel"; text = "Set Passcode"; ObjectID = "Byb-Uo-Y5H"; */
+"Byb-Uo-Y5H.text" = "Establecer contraseña";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Website"; ObjectID = "Cav-eg-avs"; */
+"Cav-eg-avs.placeholder" = "Introducirse En Studio Sitio Web";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "DLj-ot-ekA"; */
+"DLj-ot-ekA.normalTitle" = "3";
+
+/* Class = "UITableViewSection"; headerTitle = "Legalese Editor"; ObjectID = "DjT-VF-MeW"; */
+"DjT-VF-MeW.headerTitle" = "Legal Editor";
+
+/* Class = "UILabel"; text = "Rate On iTunes!"; ObjectID = "ETa-6z-pMF"; */
+"ETa-6z-pMF.text" = "Tarifa En iTunes!";
+
+/* Class = "UIButton"; normalTitle = "Add/Delete Artist"; ObjectID = "EUd-CZ-k1S"; */
+"EUd-CZ-k1S.normalTitle" = "Agregar/Eliminar Artista";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Efv-vb-bZY"; */
+"Efv-vb-bZY.title" = "Salvar";
+
+/* Class = "UIBarButtonItem"; title = "Add A New Clause"; ObjectID = "End-o5-Wji"; */
+"End-o5-Wji.title" = "Añadir una nueva cláusula";
+
+/* Class = "UITableViewSection"; headerTitle = "App Options"; ObjectID = "F3Y-Lg-7Fz"; */
+"F3Y-Lg-7Fz.headerTitle" = "App Opciones";
+
+/* Class = "UIBarButtonItem"; title = "Restore App Defaults"; ObjectID = "FZh-KX-ujF"; */
+"FZh-KX-ujF.title" = "Restaurar La Aplicación";
+
+/* Class = "UIButton"; normalTitle = "Set Artist Passcode"; ObjectID = "GPH-1p-JqE"; */
+"GPH-1p-JqE.normalTitle" = "Establecer Contraseña De Artista";
+
+/* Class = "UILabel"; text = "What Is A Cloud Service?"; ObjectID = "GYj-yO-gkd"; */
+"GYj-yO-gkd.text" = "Qué Es Un Servicio En La Nube?";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "GwB-vb-18y"; */
+"GwB-vb-18y.normalTitle" = "Terminado";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "HvT-UY-Zid"; */
+"HvT-UY-Zid.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Background Color"; ObjectID = "I2K-6X-NXZ"; */
+"I2K-6X-NXZ.text" = "Color De Fondo";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Email"; ObjectID = "IBm-9b-5TA"; */
+"IBm-9b-5TA.placeholder" = "Introducirse En Studio Correo Electrónico";
+
+/* Class = "UILabel"; text = "Artist List"; ObjectID = "IEJ-2x-euj"; */
+"IEJ-2x-euj.text" = "Lista De Artistas";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "IIa-gV-q6M"; */
+"IIa-gV-q6M.normalTitle" = "1";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Name"; ObjectID = "IlQ-MP-Zvd"; */
+"IlQ-MP-Zvd.placeholder" = "Introducirse en Studio Nombre";
+
+/* Class = "UILabel"; text = "Color:"; ObjectID = "Io5-9I-U2c"; */
+"Io5-9I-U2c.text" = "Colorar:";
+
+/* Class = "UIButton"; normalTitle = "reset"; ObjectID = "J6b-Iz-ED6"; */
+"J6b-Iz-ED6.normalTitle" = "reajustar";
+
+/* Class = "UITextField"; placeholder = "Enter clause here"; ObjectID = "JIu-3n-gFp"; */
+"JIu-3n-gFp.placeholder" = "Introducir Cláusula Aquí";
+
+/* Class = "UILabel"; text = "Enter Passcode"; ObjectID = "JmD-Zm-7YP"; */
+"JmD-Zm-7YP.text" = "Introducir Contraseña";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "KCS-D8-P5X"; */
+"KCS-D8-P5X.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Allow Under 18 Tattoos"; ObjectID = "KcD-1d-9Wc"; */
+"KcD-1d-9Wc.text" = "Permitir Que Los Tatuajes Menores De 18 Años";
+
+/* Class = "UILabel"; text = "Choose Photo"; ObjectID = "Lnq-Dm-qhd"; */
+"Lnq-Dm-qhd.text" = "Elegir foto";
+
+/* Class = "UILabel"; text = "Artist Passcode"; ObjectID = "M3b-HV-20W"; */
+"M3b-HV-20W.text" = "Contraseña Del Artista";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "MAK-PB-cKB"; */
+"MAK-PB-cKB.normalTitle" = "Terminado";
+
+/* Class = "UILabel"; text = "Studio Logo"; ObjectID = "MCj-E2-Ta5"; */
+"MCj-E2-Ta5.text" = "Studio Logo";
+
+/* Class = "UILabel"; text = "Logo is NOT required but it makes the app look more professional."; ObjectID = "MTe-cZ-ere"; */
+"MTe-cZ-ere.text" = "Logo NO es necesario, pero hace que la aplicación se vea más profesional.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "N4q-9O-4Vg"; */
+"N4q-9O-4Vg.normalTitle" = "Terminado";
+
+/* Class = "UINavigationItem"; title = "Artists"; ObjectID = "PTl-jZ-WoF"; */
+"PTl-jZ-WoF.title" = "Artistas";
+
+/* Class = "UILabel"; text = "A cloud service is a place where you can send digital information from an internet connected device to a company that stores it on their servers. Sort of like an offsite storage thats accessible at anytime."; ObjectID = "Pzu-wp-v5a"; */
+"Pzu-wp-v5a.text" = "Un servicio en la nube es un lugar donde puede enviar información digital desde un dispositivo conectado a Internet a una empresa que lo almacena en sus servidores. Algo así como un almacenamiento externo que está accesible en cualquier momento.";
+
+/* Class = "UILabel"; text = "Enter 4-Digit Passcode"; ObjectID = "RTQ-RI-SMD"; */
+"RTQ-RI-SMD.text" = "Introduzca An Código De 4 Dígitos";
+
+/* Class = "UILabel"; text = "View Privacy Policy"; ObjectID = "ReU-Y6-Qae"; */
+"ReU-Y6-Qae.text" = "Ver política de privacidad";
+
+/* Class = "UILabel"; text = "Edit Legalese"; ObjectID = "Rh2-kl-x1V"; */
+"Rh2-kl-x1V.text" = "Editar Legal";
+
+/* Class = "UINavigationItem"; prompt = "All Studio options and a cloud service are required."; ObjectID = "RsW-G9-QTc"; */
+"RsW-G9-QTc.prompt" = "Se requieren todas las opciones de Studio y un servicio en la nube.";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "RsW-G9-QTc"; */
+"RsW-G9-QTc.title" = "Settings";
+
+/* Class = "UITableViewSection"; headerTitle = "Cloud Services"; ObjectID = "SEs-GG-4sL"; */
+"SEs-GG-4sL.headerTitle" = "Servicios en la nube";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "SPr-mn-LKH"; */
+"SPr-mn-LKH.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "Studio Name"; ObjectID = "Tab-tE-uia"; */
+"Tab-tE-uia.text" = "Studio Name";
+
+/* Class = "UILabel"; text = "Studio Address"; ObjectID = "UGd-Li-mCa"; */
+"UGd-Li-mCa.text" = "Studio Address";
+
+/* Class = "UIBarButtonItem"; title = "Restore Defaults"; ObjectID = "V5o-gu-6Y6"; */
+"V5o-gu-6Y6.title" = "Restaurar Los Valores Predeterminados";
+
+/* Class = "UILabel"; text = "Initial Setup Instructions"; ObjectID = "VZA-Hv-d4k"; */
+"Initial Setup Instructions" = "Instrucciones de instalación inicial";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "X65-xM-wmk"; */
+"X65-xM-wmk.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "- Add at least one Artist"; ObjectID = "X7H-NE-cLa"; */
+"X7H-NE-cLa.text" = "- Añadir al menos un artista";
+
+/* Class = "UILabel"; text = "App Background Color"; ObjectID = "XYM-fa-XBS"; */
+"XYM-fa-XBS.text" = "Aplicación Color De Fondo";
+
+/* Class = "UILabel"; text = "Send Us Feedback!"; ObjectID = "XYc-Wa-93V"; */
+"XYc-Wa-93V.text" = "Envianos Tus Comentarios!";
+
+
+/* Class = "UINavigationItem"; title = "Client Queue"; ObjectID = "b6x-Q3-2hF"; */
+"b6x-Q3-2hF.title" = "Cola De Clientes";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "b9j-Vq-Qf0"; */
+"b9j-Vq-Qf0.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "The default background color is white."; ObjectID = "bCo-cr-ecf"; */
+"bCo-cr-ecf.text" = "El color de fondo predeterminado es blanco.";
+
+/* Class = "UITableViewSection"; headerTitle = "Privacy Policy"; ObjectID = "bdG-OP-gNo"; */
+"bdG-OP-gNo.headerTitle" = "Política De Privacidad";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "c7n-mH-g7k"; */
+"c7n-mH-g7k.normalText" = "Continuer";
+
+/* Class = "UIButton"; normalTitle = "Reset Studio Logo"; ObjectID = "cqe-NQ-ebu"; */
+"cqe-NQ-ebu.normalTitle" = "Restablecer Studio Logo";
+
+/* Class = "UILabel"; text = "Studio Phone Number"; ObjectID = "dJe-aD-xu9"; */
+"dJe-aD-xu9.text" = "Studio Número De Teléfono";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ddF-jQ-5z4"; */
+"ddF-jQ-5z4.normalTitle" = "Terminado";
+
+/* Class = "UILabel"; text = "The Legalese are legal clauses the client must agree to and initial in order to get a tattoo/piercing."; ObjectID = "dpw-jD-Fgo"; */
+"dpw-jD-Fgo.text" = "El Legalese son cláusulas legales que el cliente debe acordar e inicial con el fin de obtener un tatuaje/piercing.";
+
+/* Class = "UILabel"; text = "This passcode allows access to the Queue only. Ideal for artists."; ObjectID = "e5h-zw-tbM"; */
+"e5h-zw-tbM.text" = "Este código de acceso sólo permite el acceso a la cola. Ideal para artistas.";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "eAb-E7-8Ff"; */
+"eAb-E7-8Ff.normalTitle" = "2";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "eT2-LM-n3S"; */
+"eT2-LM-n3S.title" = "De regreso";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "euY-gt-Eh0"; */
+"euY-gt-Eh0.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "2. Enter the default master passcode: 1234"; ObjectID = "f9u-xF-9EJ"; */
+"f9u-xF-9EJ.text" = "2. Introduzca la contraseña maestra predeterminada: 1234";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "fpr-EH-g9O"; */
+"fpr-EH-g9O.normalTitle" = "6";
+
+/* Class = "UILabel"; text = "Master Passcode"; ObjectID = "fwu-OR-sVa"; */
+"fwu-OR-sVa.text" = "Maestra Predeterminada";
+
+/* Class = "UILabel"; text = "Select how this clause is shown"; ObjectID = "gve-C1-5jE"; */
+"gve-C1-5jE.text" = "Selecciona cómo se muestra esta cláusula";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "hRc-Y7-c2l"; */
+"hRc-Y7-c2l.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "izy-GB-KHW"; */
+"izy-GB-KHW.normalTitle" = "Terminado";
+
+/* Class = "UIButton"; normalTitle = "Reset Background Color"; ObjectID = "jDP-ou-DEZ"; */
+"jDP-ou-DEZ.normalTitle" = "Restablecer el color de fondo";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[0] = "Tattoo"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[0]" = "Tattoo";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[1] = "Piercing"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[1]" = "Piercing";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[2] = "Both"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[2]" = "Both";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "jZ8-ep-GzF"; */
+"jZ8-ep-GzF.normalTitle" = "Terminado";
+
+/* Class = "UITextField"; placeholder = "12345"; ObjectID = "jws-fk-PNJ"; */
+"jws-fk-PNJ.placeholder" = "12345";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "kJr-iZ-L94"; */
+"kJr-iZ-L94.normalTitle" = "7";
+
+/* Class = "UIBarButtonItem"; title = "Queue"; ObjectID = "l9R-bA-Mh0"; */
+"l9R-bA-Mh0.title" = "En Cola";
+
+/* Class = "UIBarButtonItem"; title = "Cancel Form"; ObjectID = "lXw-cS-kU1"; */
+"lXw-cS-kU1.title" = "Cancelar Formulario";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "mXO-JO-qf2"; */
+"mXO-JO-qf2.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Opacity:"; ObjectID = "nJs-Fd-hgm"; */
+"nJs-Fd-hgm.text" = "Opacidad:";
+
+/* Class = "UILabel"; text = "1. Tap the Settings gear in the upper left hand corner."; ObjectID = "nUz-Vd-G6Q"; */
+"nUz-Vd-G6Q.text" = "1. Puntee en el engranaje Configuración en la esquina superior izquierda.";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "nZ5-wa-oGB"; */
+"nZ5-wa-oGB.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "Studio Website"; ObjectID = "oQ9-Hs-ZSy"; */
+"oQ9-Hs-ZSy.text" = "Studio Sitio Web";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "osm-mW-Oyc"; */
+"osm-mW-Oyc.normalTitle" = "Terminado";
+
+/* Class = "UILabel"; text = "- Link a cloud Service (iCloud, Dropbox, BOX) "; ObjectID = "p06-dU-iVg"; */
+"p06-dU-iVg.text" = "- Vincular Un Servicio en La Nube (Dropbox, BOX) ";
+
+/* Class = "UILabel"; text = "4. Tap \"Done\" to save "; ObjectID = "p4L-h0-NYe"; */
+"p4L-h0-NYe.text" = "4. Toque \"Terminado\" salvar ";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Address"; ObjectID = "p7u-PO-ttT"; */
+"p7u-PO-ttT.placeholder" = "Introducirse En Studio Dirección";
+
+/* Class = "UITableViewSection"; headerTitle = "Send Feedback"; ObjectID = "p9A-Yk-r2Q"; */
+"p9A-Yk-r2Q.headerTitle" = "Mandar Realimentación";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "psi-GJ-Q2f"; */
+"psi-GJ-Q2f.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "qL5-8w-rgC"; */
+"qL5-8w-rgC.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "qXT-ce-Vt2"; */
+"qXT-ce-Vt2.normalTitle" = "Terminado";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "rWs-40-SzM"; */
+"rWs-40-SzM.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "sFi-ZU-6fN"; */
+"sFi-ZU-6fN.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Current Image:"; ObjectID = "uDH-nU-6hp"; */
+"uDH-nU-6hp.text" = "Imagen actual:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uVL-35-bdh"; */
+"uVL-35-bdh.normalTitle" = "Terminado";
+
+/* Class = "UILabel"; text = "This app requires the use of a cloud service. Any one of the following are appoved for this app. Tap on the icon so set up your account now."; ObjectID = "ufy-FU-M0U"; */
+"ufy-FU-M0U.text" = "Esta aplicación requiere el uso de un servicio en la nube. Cualquiera de los siguientes son appoved para esta aplicación. Toque en el icono para configurar su cuenta ahora.";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "vz6-x4-pu4"; */
+"vz6-x4-pu4.normalTitle" = "Conjunto";
+
+/* Class = "UILabel"; text = "Studio Logo"; ObjectID = "wUK-Va-kRF"; */
+"wUK-Va-kRF.text" = "Studio Logo";
+
+/* Class = "UILabel"; text = "Enter your legal clause below."; ObjectID = "wWx-Zb-GLe"; */
+"wWx-Zb-GLe.text" = "Ingrese su cláusula legal a continuación.";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "wYl-eM-34l"; */
+"wYl-eM-34l.normalTitle" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Cancel Form"; ObjectID = "yxA-Ln-cZ0"; */
+"yxA-Ln-cZ0.title" = "Cancelar Formulario";
+
+/* Class = "UIButton"; title = "Choose Piercing"; ObjectID = "cux-se-qxp"; */
+"cux-se-qxp.title" = "Elige Perforación";
+

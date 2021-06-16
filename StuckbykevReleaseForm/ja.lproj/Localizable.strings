@@ -1,0 +1,600 @@
+/*
+ Localizable.strings
+ StuckByKev Release Form
+ Japanese
+ Created by Kevin Green on 7/2/17.
+ Copyright © 2017 Kevin Green. All rights reserved.
+ */
+
+
+"Search for yourself to auto-fill" = "自分を検索して自動入力する";
+"Tap the start button to begin a new form" = "開始ボタンをタップして、新しいフォームを開始します";
+"Long press to show the help tutorial" = "長押ししてヘルプチュートリアルを表示";
+"Enter Name - First and Last" = "名前を入力-最初と最後";
+"Signature(s)" = "署名";
+"All Legal Clauses" = "すべての法的条項";
+"Personal Info" = "個人情報";
+"Shop Info" = "ショップ情報";
+"Photograph ID(s)" = "写真のID";
+
+
+
+"- Studio name, address, phone number, website, and email." = "- スタジオ名, 住所, 電話番号, ウェブサイト, そして Eメール.";
+"Accept" = "受け入れます";
+"access token url not defined" = "アクセストークンURLが定義されていません";
+"Add" = "追加";
+"Add Artist Name" = "アーティスト名を追加";
+"Address:" = "住所:";
+"Age" = "年齢";
+"Age:" = "年齢:";
+"Align your ID with the iPad camera at the top and take a photo of your ID." = "あなたのIDをiPadのカメラの上部に合わせ、あなたのIDの写真を撮る.";
+"All information in a \"required\" section must be complete before the app can be used: \n\(missingInfo())" = "アプリを使用するには、\"必要\"なセクションのすべての情報が完全でなければなりません: \n\(missingInfo())";
+"Allergic To Latex" = "ラテックスにアレルギー";
+"Anemic (thin blood)" = "貧血（薄い血液）";
+"App Reset" = "アプリのリセット";
+"Are You Sure?" = "あなたは確かですか？";
+"Are you sure you want to cancel this form?" = "このフォームをキャンセルしてもよろしいですか？";
+"Are you sure you want to completely restore the app settings to default? This will delete all app information. This will NOT delete any information stored in the cloud." = "アプリの設定をデフォルトに完全に復元してもよろしいですか？ これは、すべてのアプリ情報を削除します。 これにより、クラウドに格納されている情報は削除されません。";
+"Are you sure you want to reset to defult?" = "デフォルトにリセットしてもよろしいですか？";
+"Arm" = "アーム";
+"Artist Array" = "アーティスト配列";
+"Artist Passcode Set" = "アーティストパスコードセット";
+"Artist Name" = "アーティスト名";
+"Artist's Name:" = "アーティスト名:";
+"Auto-Fill" = "オートフィル";
+"Auto-Fill Initials" = "オートフィル イニシャル";
+"Back" = "後ろに";
+"Been here before? Search for yourself to auto-fill your info."  = "前にここに行った事がある方は、 あなたの情報を自動入力するために自分自身を検索します。";
+"Birth Date" = "生年月日";
+"Birthdate" = "生年月日";
+"Birthdate:" = "生年月日:";
+"Blood Thinners" = "血液希釈剤";
+"Both" = "双方";
+"By my signature below, I certify under Penalty Of Perjury that the information provided is true and correct, and that I am at least 18 years of age or older; (or have a parent present with ID’s). I further understand that, if I give false information or produce false documents stating my name and age to be other that what is correct, I am liable for prosecution." = "下記の私の署名により、私は、提供された情報が真実で正しいこと、および私が少なくとも18歳以上であることを証明します。 （または、親がIDを持っている）。 私はさらに、私が虚偽の情報を提供したり、私の名前と年齢が正しいことを示す偽の文書を作成した場合、私は起訴の責任を負います。";
+"By selecting accept, you acknowlege all information provided is true and correct" = "承諾を選択することにより、お客様は、提供されたすべての情報が真実であり、";
+"Cancel" = "キャンセル";
+"Cancel Form" = "フォームをキャンセルする";
+"Cannot open AppStore" = "AppStoreを開くことができません";
+"Center" = "センター";
+"Change" = "変化する";
+"City" = "シティ";
+"City:" = "シティ:";
+"Clear Signature"  = "署名をクリアする";
+"Clound Service" = "クラウドサービス";
+"Confirm Restore App Settings" = "アプリケーション設定の復元を確認する";
+"Confirmation" = "確認";
+"Continue" = "持続する";
+"Could not get Access Token" = "アクセストークンを取得できませんでした";
+"Del" = "削除";
+"Description" = "説明";
+"Description Of Tattoo" = "タトゥーの説明";
+"Diabetes" = "糖尿病";
+"Do you have Mitral valve Prolapse or any other heart condition that requres antibiotics before dental work or other medical procedures?" = "Mitral valve Prolapseや歯科手術やその他の医療処置の前に抗生物質を必要とするその他の心臓病はありますか？";
+"Done" = "完了";
+"E-Mail" = "Eメール";
+"E-mail Address:" = "電子メールアドレス:";
+"Eczema/Psoriasis" = "湿疹/乾癬";
+"Enter Artist Name" = "アーティスト名を入力";
+"Enter City"= "都市を入力";
+"Enter Description Of Your Tattoo" = "あなたの入れ墨の説明を入力してください";
+"Enter Email" = "メールアドレスを入力して";
+"Enter Email Address"  = "メールアドレスを入力してください";
+"Enter First and Last" = "姓と名を入力してください";
+"Enter Phone Number" = "電話番号を入力";
+"Enter Street Address" = "住所を入力してください";
+"Epilepsy" = "てんかん";
+"Fainting" = "失神";
+"Female" = "女性";
+"Finish & Upload" = "フィニッシュ＆アップロード";
+"First Name" = "ファーストネーム";
+"Foot" = "足";
+"Gender" = "性別";
+"Gender:" = "性別:";
+"Hand" = "ハンド";
+"Eaten in last 4 hours?" = "あなたは過去4時間以内に食べましたか？";
+"Head/Face" = "ヘッド/顔";
+"Health" = "健康";
+"Heart Conditions" = "心臓の状態";
+"Heavy Bleeding" = "重い出血";
+"Hepatitis B/C" = "B/C型肝炎";
+"Herpes" = "ヘルペス";
+
+"I have truthfully represented to YOUR STUDIO NAME that I am eighteen(18) years of age or older." = "私は真実を YOUR STUDIO NAME に表しました。私は18歳以上です。";
+
+"I acknowledge that it is not reasonably possible for the representatives and employees of YOUR STUDIO NAME to determine whether I might have and allergic reaction to any metals, inks or materials used during the procedure, and I agree to accept the risk that such a reactions is possible." = "私は YOUR STUDIO NAME の代理人および従業員が手続き中に使用された金属、インクまたは材料についてアレルギー反応を起こすかどうかを判断することは合理的に不可能であることを認め、そのような反応が起こるリスクを受け入れることに同意します。";
+
+"I acknowledge that I have advised my artist of any conditions that might affect the healing of this Tattoo/Piercing. I do not have any medical or skin conditions such as but not limited to: acne, scarring, eczema, psoriasis, freckles, moles, or sunburn in the area to be Tattooed/Pierced that may interfere with said Tattoo/Piercing. If I have any infection or rash anywhere on my body, I will advise the artist." = "私は私が私の芸術家にこのタトゥー/ピアスの治癒に影響を及ぼす可能性のあるいかなる状態についてもアドバイスしたことを認めます。 私はタトゥー/ピアスを妨げる可能性のあるタトゥー/ピアスされる領域には、にきび、瘢痕、湿疹、乾癬、そばかす、げっ歯類、日焼けなどの医療や皮膚の病気はありません。 私の体のどこに感染や発疹がある場合は、私はそのアーティストに助言します。";
+
+"I am NOT pregnant or nursing." = "私は妊娠していないか、看護していません。";
+
+"I am NOT under the influence of alcohol or drugs." = "私はアルコールや薬物の影響下にないです。";
+
+"I acknowledge that infection is always possible when obtaining a Tattoo/Piercing, particularly in the event that I do not take proper care of my Tattoo/Piercing. I have received aftercare instructions and I agree to follow them while my Tattoo/Piercing is healing." = "タトゥー/ピアスを手に入れたとき、特にタトゥー/ピアスを適切にしていない場合に、感染が常に可能であることは認めています。 私はアフターケアの指示を受けていると私は入れ墨/ピアスが癒している間にそれらに従うことに同意します。";
+
+"I acknowledge that a Tattoo/Piercing is a permanent chance to my appearance. To my knowledge, I do NOT have physical, mental or medical impairment or disability which might affect my well being as a direct or indirect result of my decision to have a Tattoo/Piercing." = "私はタトゥー/ピアスは私の出現の永久的なチャンスであることを認めます。 私の知る限りでは、身体的、精神的、または医学的な障害または身体障害が、私の幸福に影響するかもしれないが、私がタトゥー/ピアスを持つことを決定した直接的または間接的な結果ではない。";
+
+"I acknowledge the decision for obtaining my Tattoo/Piercing is my own free will and choice. I consent to the location of the Tattoo/Piercing and performance of the Tattoo/Piercing procedure." = "私は自分のタトゥー/ピアスを得るための決定が私自身の自由意志と選択であることを認めます。 私はタトゥー/ピアスの場所と刺青/ピアスの手順の実行に同意します。";
+
+"I acknowledge and agree to following any and all instructions given to me regarding the maintenance of a sanitary environment while I am being Tattooed/Pierced." = "私は入れ墨/穿刺中に衛生環境の維持に関して私に与えられたすべての指示に従うことを認め、同意する。";
+
+"I agree to IMMEDIATELY notify my artist if I feel lightheaded, dizzy, and/or faint before, during or after the procedure. Failure to do so releases YOUR STUDIO NAME and the artists of all responsibility." = "私は中または処置後、前、めまいめまい、および/またはかすかに感じた場合は、直ちにMyアーティストに通知することに同意します。 そうしないと YOUR STUDIO NAME とすべての責任を持つアーティストが解放されます。";
+
+"Identification" = "識別";
+"If you would like, we can send you a digital copy of your aftercare instructions." = "ご希望の場合は、アフターケアの説明書のデジタルコピーをお送りします。";
+"Information" = "情報";
+"Initials" = "イニシャル";
+"Is the person getting the procedure over 18?" = "手続きを受けている18歳以上の人ですか？";
+"Is the person getting a tattoo or piercing?" = "あなたは、タトゥーやピアスを取得していますか？";
+"Last Name" = "苗字";
+"Left" = "左";
+"Left/Full" = "左 / いっぱい";
+"Left/Lower" = "左 / 低い";
+"Left/Upper" = "左 / アッパー";
+"Leg" = "Leg";
+"Legal" = "法定";
+"Legal Section" = "法務セクション";
+"Legalese" = "法律用語";
+"Legalese Editor" = "法律用語エディタ";
+"Make Changes" = "変更を加える";
+"Male" = "男性";
+"Master Passcode Set" = "マスターパスコードセット";
+"Minor/Piercee" = "未成年者 / ピアスを取得した人";
+"Name" = "名";
+"Name:" = "名:";
+"No" = "いいえ";
+"No ID Photo Taken" = "ID写真が撮られていない";
+"Ok" = "はい";
+"Oops" = "おっとっと";
+"Optional" = "随意";
+"Other" = "他の";
+"Other, Not Listed" = "その他、記載されていない";
+"Other risk factor for blood borne pathogens(HIV, AIDS, any other communicable disease)" = "血液媒介病原体（HIV、AIDS、その他の伝染性疾患）のその他のリスク要因";
+"Parent/Guardian" = "親 / 後見";
+"Phone:" = "Phone:";
+"Phone Number" = "電話番号";
+"Piercing" = "ボディピアス";
+"Piercing: " = "ボディピアス: ";
+"piercing" = "ボディピアス";
+"Placement Of Tattoo" = "入れ墨の配置";
+"Please check any and all conditions that apply to you as listed below:" = "下記にリストされているようにあなたに適用されると、すべての条件をご確認ください:";
+"Please check the information and edit it if the auto-fill is out of date." = "情報を確認すると自動塗りつぶしが古くなっている場合は、それを編集してください。";
+"Please sign with your finger below" = "あなたの指でサインしてください";
+"Please Try Again" = "もう一度お試しください";
+"Pregnant/Nursing" = "妊娠している / 看護";
+"Preview it" = "プレビュー";
+"Privacy Policy" = "個人情報保護方針";
+"Private" = "民間";
+"Release & Waiver Of All Claims" = "すべてのクレームのリリース＆放棄";
+"Reset" = "リセット";
+"Right" = "右側";
+"Right/Full" = "右 / いっぱい";
+"Right/Lower" = "右 / 低い";
+"Right/Upper" = "右 / アッパー";
+"Save" = "貯める";
+"Scarring/Keloiding" = "瘢痕 / ケロイド";
+"Select Body Placement" = "体の配置を選択";
+"Select Your Artist" = "あなたのアーティストを選択";
+"Select Your Birthdate" = "あなたの生年月日を選択";
+"Select Your Birthday" = "あなたの生年月日を選択";
+"Select Your Piercing Type" = "ピアスタイプの選択";
+"Select Your State" = "あなたの状態を選択する";
+"Select Your Tattoo Placement" = "あなたのタトゥー配置を選択してください";
+"Send by Email" = "メールで送る";
+"Signature" = "署名";
+"Skin Conditions" = "皮膚の状態";
+"Something went wrong connectiong to your camera. Plese check your settings and try again.\n \(error.localizedDescription)" = "カメラに接続する際に問題が発生しました。 設定を確認してもう一度お試しください.\n \(error.localizedDescription)";
+"Start" = "開始";
+"State:" = "状態:";
+"State" = "状態";
+"Street Address" = "住所";
+"Studio Address" = "スタジオアドレス";
+"Studio Email" = "スタジオ電子メール";
+"Studio Name" = "スタジオ名";
+"Studio Phone Number" = "スタジオの電話番号";
+"Studio Website" = "スタジオウェブサイト";
+"T.B." = "結核";
+"Take A Photo Of Your ID" = "あなたのIDの写真を撮る";
+"Tap To Pick Artist" = "タップしてアーティストを選ぶ";
+"Tap To Pick Birthdate" = "誕生日を選ぶためにタップする";
+"Tap To Pick Piercing" = "ピアスを選択するタップ";
+"Tap To Pick State" = "Tタップして州を選ぶ";
+"Tattoo" = "入れ墨";
+"Tattoo: " = "入れ墨: ";
+"tattoo" = "入れ墨";
+"Tattoo Placement:" = "入れ墨の配置:";
+"Thank you for your recent \(tatORpierce!) from \(studioName!)\n Here is your requested copy of your aftercare instructions." = "最近の\（tatORpierce！）の \ (studioName!) からのありがとうございます。\ nあなたのアフターケアの指示書のコピーです。";
+"Thank you for your recent tattoo/piercing from \(studioName!)\n Here is your requested copy of your release form." = "あなたの最近のタトゥー/ピアスから\（studioName！）までお寄せいただきありがとうございます。\ nあなたのリリースフォームのコピーが必要です。";
+"Thats it, your all done!" = "それがすべてです。すべて完了 ";
+"The app settings have been restored." = "アプリの設定が復元されました。";
+"The birthdate you entered does not match the birthdate for the name chosen." = "入力した誕生日は、選択した名前の誕生日と一致しません。";
+"The legal clauses have been set to defult." = "法的句はデフォルトに設定されています。";
+"There was an error." = "エラーがありました";
+"This app is your new digital tattoo/piercing release form. It replaces the paper release form you would normally fill out today. Law requires a new form for each session, but paper is wasteful and not secure.  It saves trees, reduces printer ink, eliminates bulky cabinets, encrypts your data, and helps you quickly auto-fill your infomation. Everybody wins! Including the environment!" = "このアプリはあなたの新しいデジタルタトゥー/ピアスリリースフォームです。 これは、今日あなたが通常記入する紙のリリースフォームに取って代わるものです。 法律ではセッションごとに新しい書式が必要ですが、紙は無駄で安全ではありません。 木を節約し、プリンタのインクを減らし、かさばるキャビネットを排除し、データを暗号化し、あなたの情報を迅速に自動記入するのに役立ちます。 誰もが勝つ！ 環境も含めて！";
+"This will also reset the app passcodes and delete any clients in the queue." = "これにより、アプリのパスコードがリセットされ、キュー内のクライアントも削除されます。";
+"Today's Date:" = "今日の日付:";
+"Torso/Ribs" = "胴体 / 肋";
+"Tuberculosis" = "結核";
+"Type Of Piercing" = "ピアスの種類";
+"Type Of Piercing:" = "ピアスの種類:";
+"Under Age" = "老後";
+"We're sorry, you must be 18 or older to get a tattoo." = "申し訳ありませんが、あなたはタトゥーを取得するために、18歳以上でなければなりません。";
+"Welcome To Your Digital Release Form!" = "あなたのデジタルリリースフォームへようこそ！";
+"Wrong Birthdate" = "間違った誕生日";
+"Wrong Format" = "間違った形式";
+"Wrong Password" = "間違ったパスワード";
+"Yeah!" = "ええ!";
+"Yes" = "はい";
+"You can double tap either preview below to clear the photo." = "下のいずれかのプレビューをダブルタップすると、写真を消去できます。";
+"You can double tap the preview below to clear the photo" = "下のプレビューをダブルタップして写真を消去することができます。";
+"You must complete all information before saving your form: \n\(missingInfo())" = "フォームを保存する前にすべての情報を入力する必要があります: \n\(missingInfo())";
+"You must take a picture of your ID(s) before you can continue." = "続行する前に、自分のID（複数可）の写真を取る必要があります。";
+"Your Aftercare Instructions" = "あなたのアフターケアの指示";
+"Your artist will call you when they're ready." = "彼らは準備ができたら、あなたのアーティストがあなたを呼び出します。";
+"Your \(studioName!) Release Form" = "あなたの\ (studioName!) リリースフォーム";
+"Your first and last names must be separated by a space." = "あなたの姓と名はスペースで区切られていなければなりません。";
+"Your invoice has been successfully printed to a PDF file.\n\nWhat do you want to do now?" = "請求書はPDFファイルに正常に印刷されました。\n\n今何がしたい？";
+"YOUR STUDIO NAME" = "YOUR STUDIO NAME";
+"Zip:" = "郵便番号:";
+"Zip Code" = "郵便番号";
+
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "1ec-Ce-cxW"; */
+"1ec-Ce-cxW.title" = "キャンセル";
+
+/* Class = "UILabel"; text = "3. Provide at least the following:"; ObjectID = "2r4-ql-3JS"; */
+"2r4-ql-3JS.text" = "3. 少なくとも以下を提供する:";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "2y8-ZA-sLF"; */
+"2y8-ZA-sLF.title" = "Save";
+
+/* Class = "UIBarButtonItem"; title = "Queue"; ObjectID = "3At-gI-74D"; */
+"3At-gI-74D.title" = "キュー";
+
+/* Class = "UITextField"; placeholder = "Enter Lot #'s"; ObjectID = "4WV-FS-yzS"; */
+"4WV-FS-yzS.placeholder" = "ロットに入る #'s";
+
+/* Class = "UIButton"; normalTitle = "Set Master Passcode"; ObjectID = "4sn-zv-08d"; */
+"4sn-zv-08d.normalTitle" = "マスターパスコードを設定する";
+
+/* Class = "UITableViewSection"; headerTitle = "Studio Options"; ObjectID = "5Hd-wF-auk"; */
+"5Hd-wF-auk.headerTitle" = "スタジオのオプション";
+
+/* Class = "UILabel"; text = "Turn this on if your state allows persons under the age of 18 to get tattoos. Off by default"; ObjectID = "5dn-u3-QKX"; */
+"5dn-u3-QKX.text" = "あなたの州で18歳未満の人に入れ墨ができる場合は、これをオンにしてください。 デフォルトでオフ";
+
+/* Class = "UILabel"; text = "Dropbox"; ObjectID = "5zA-t6-gJP"; */
+"5zA-t6-gJP.text" = "Dropbox";
+
+/* Class = "UILabel"; text = "This passcode allows access to these setting and can also be used to access the Queue. Ideal for owners/managers."; ObjectID = "6cu-Hq-cYY"; */
+"6cu-Hq-cYY.text" = "このパスコードはこれらの設定へのアクセスを許可し、キューにアクセスするためにも使用できます。 オーナー/マネージャーに最適です。";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "6t7-PL-Vax"; */
+"6t7-PL-Vax.normalTitle" = "7";
+
+/* Class = "UIBarButtonItem"; title = "Continue"; ObjectID = "782-Ue-dGk"; */
+"782-Ue-dGk.title" = "持続する";
+
+/* Class = "UILabel"; text = "Studio Email"; ObjectID = "7RP-gM-DdE"; */
+"7RP-gM-DdE.text" = "スタジオ電子メール";
+
+/* Class = "UILabel"; text = "Relesase Form needs some basic info in order for the app to function. You can always change things later too."; ObjectID = "7j1-QS-RV0"; */
+"7j1-QS-RV0.text" = "リリースフォームには、アプリが機能するための基本情報が必要です。 後でいつでも変更することができます。";
+
+/* Class = "UILabel"; text = "Preview PDF"; ObjectID = "8aJ-P0-Noi"; */
+"8aJ-P0-Noi.text" = "PDFプレビュー";
+
+/* Class = "UILabel"; text = "Box"; ObjectID = "8wc-ea-y0W"; */
+"8wc-ea-y0W.text" = "BOX";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Phone Number"; ObjectID = "A4D-YQ-4FI"; */
+"A4D-YQ-4FI.placeholder" = "スタジオの電話番号を入力";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "AMW-gd-qQU"; */
+"AMW-gd-qQU.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "Ba3-nm-7C0"; */
+"Ba3-nm-7C0.normalTitle" = "6";
+
+/* Class = "UITextField"; placeholder = "Additional notes i.e. needles/inks"; ObjectID = "Bje-iI-aix"; */
+"Bje-iI-aix.placeholder" = "追加の注記、すなわち針/インク";
+
+/* Class = "UILabel"; text = "Set Passcode"; ObjectID = "Byb-Uo-Y5H"; */
+"Byb-Uo-Y5H.text" = "パスコードを設定する";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Website"; ObjectID = "Cav-eg-avs"; */
+"Cav-eg-avs.placeholder" = "Enter Studio Website";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "DLj-ot-ekA"; */
+"DLj-ot-ekA.normalTitle" = "3";
+
+/* Class = "UITableViewSection"; headerTitle = "Legalese Editor"; ObjectID = "DjT-VF-MeW"; */
+"DjT-VF-MeW.headerTitle" = "法律用語エディタ";
+
+/* Class = "UILabel"; text = "Rate On iTunes!"; ObjectID = "ETa-6z-pMF"; */
+"ETa-6z-pMF.text" = "iTunesで評価する！";
+
+/* Class = "UIButton"; normalTitle = "Add/Delete Artist"; ObjectID = "EUd-CZ-k1S"; */
+"EUd-CZ-k1S.normalTitle" = "加算 / アーティストを削除";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Efv-vb-bZY"; */
+"Efv-vb-bZY.title" = "セーブ";
+
+/* Class = "UIBarButtonItem"; title = "Add A New Clause"; ObjectID = "End-o5-Wji"; */
+"End-o5-Wji.title" = "新しい節を追加する";
+
+/* Class = "UITableViewSection"; headerTitle = "App Options"; ObjectID = "F3Y-Lg-7Fz"; */
+"F3Y-Lg-7Fz.headerTitle" = "アプリのオプション";
+
+/* Class = "UIBarButtonItem"; title = "Restore App Defaults"; ObjectID = "FZh-KX-ujF"; */
+"FZh-KX-ujF.title" = "アプリのデフォルトを復元する";
+
+/* Class = "UIButton"; normalTitle = "Set Artist Passcode"; ObjectID = "GPH-1p-JqE"; */
+"GPH-1p-JqE.normalTitle" = "アーティストのパスコードを設定する";
+
+/* Class = "UILabel"; text = "What Is A Cloud Service?"; ObjectID = "GYj-yO-gkd"; */
+"GYj-yO-gkd.text" = "クラウドサービスとは何ですか？";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "GwB-vb-18y"; */
+"GwB-vb-18y.normalTitle" = "完了";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "HvT-UY-Zid"; */
+"HvT-UY-Zid.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Background Color"; ObjectID = "I2K-6X-NXZ"; */
+"I2K-6X-NXZ.text" = "背景色";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Email"; ObjectID = "IBm-9b-5TA"; */
+"IBm-9b-5TA.placeholder" = "スタジオ電子メールを入力";
+
+/* Class = "UILabel"; text = "Artist List"; ObjectID = "IEJ-2x-euj"; */
+"IEJ-2x-euj.text" = "アーティストリスト";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "IIa-gV-q6M"; */
+"IIa-gV-q6M.normalTitle" = "1";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Name"; ObjectID = "IlQ-MP-Zvd"; */
+"IlQ-MP-Zvd.placeholder" = "スタジオ名を入力";
+
+/* Class = "UILabel"; text = "Color:"; ObjectID = "Io5-9I-U2c"; */
+"Io5-9I-U2c.text" = "色:";
+
+/* Class = "UIButton"; normalTitle = "reset"; ObjectID = "J6b-Iz-ED6"; */
+"J6b-Iz-ED6.normalTitle" = "リセット";
+
+/* Class = "UITextField"; placeholder = "Enter clause here"; ObjectID = "JIu-3n-gFp"; */
+"JIu-3n-gFp.placeholder" = "ここに句を入力";
+
+/* Class = "UILabel"; text = "Enter Passcode"; ObjectID = "JmD-Zm-7YP"; */
+"JmD-Zm-7YP.text" = "パスコードを入力";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "KCS-D8-P5X"; */
+"KCS-D8-P5X.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Allow Under 18 Tattoos"; ObjectID = "KcD-1d-9Wc"; */
+"KcD-1d-9Wc.text" = "18以下の入れ墨を許可する";
+
+/* Class = "UILabel"; text = "Choose Photo"; ObjectID = "Lnq-Dm-qhd"; */
+"Lnq-Dm-qhd.text" = "写真を選んでください";
+
+/* Class = "UILabel"; text = "Artist Passcode"; ObjectID = "M3b-HV-20W"; */
+"M3b-HV-20W.text" = "アーティストのパスコード";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "MAK-PB-cKB"; */
+"MAK-PB-cKB.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "Studio Logo"; ObjectID = "MCj-E2-Ta5"; */
+"MCj-E2-Ta5.text" = "スタジオロゴ";
+
+/* Class = "UILabel"; text = "Logo is NOT required but it makes the app look more professional."; ObjectID = "MTe-cZ-ere"; */
+"MTe-cZ-ere.text" = "ロゴは必須ではありませんが、それはアプリがよりプロフェッショナルに見えるのです。";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "N4q-9O-4Vg"; */
+"N4q-9O-4Vg.normalTitle" = "完了";
+
+/* Class = "UINavigationItem"; title = "Artists"; ObjectID = "PTl-jZ-WoF"; */
+"PTl-jZ-WoF.title" = "アーティスト";
+
+/* Class = "UILabel"; text = "A cloud service is a place where you can send digital information from an internet connected device to a company that stores it on their servers. Sort of like an offsite storage thats accessible at anytime."; ObjectID = "Pzu-wp-v5a"; */
+"Pzu-wp-v5a.text" = "クラウドサービスとは、インターネットに接続されたデバイスからデジタル情報をサーバーに保存する企業にデジタル情報を送信できる場所です。 いつでもアクセス可能なオフサイトストレージのようなもの。";
+
+/* Class = "UILabel"; text = "Enter 4-Digit Passcode"; ObjectID = "RTQ-RI-SMD"; */
+"RTQ-RI-SMD.text" = "4桁のパスコードを入力";
+
+/* Class = "UILabel"; text = "View Privacy Policy"; ObjectID = "ReU-Y6-Qae"; */
+"ReU-Y6-Qae.text" = "プライバシーポリシーを表示";
+
+/* Class = "UILabel"; text = "Edit Legalese"; ObjectID = "Rh2-kl-x1V"; */
+"Rh2-kl-x1V.text" = "編集法律用語";
+
+/* Class = "UINavigationItem"; prompt = "All Studio options and a cloud service are required."; ObjectID = "RsW-G9-QTc"; */
+"RsW-G9-QTc.prompt" = "すべてのスタジオオプションとクラウドサービスが必要です。";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "RsW-G9-QTc"; */
+"RsW-G9-QTc.title" = "設定";
+
+/* Class = "UITableViewSection"; headerTitle = "Cloud Services"; ObjectID = "SEs-GG-4sL"; */
+"SEs-GG-4sL.headerTitle" = "クラウドサービス";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "SPr-mn-LKH"; */
+"SPr-mn-LKH.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "Studio Name"; ObjectID = "Tab-tE-uia"; */
+"Tab-tE-uia.text" = "スタジオ名";
+
+/* Class = "UILabel"; text = "Studio Address"; ObjectID = "UGd-Li-mCa"; */
+"UGd-Li-mCa.text" = "スタジオアドレス";
+
+/* Class = "UIBarButtonItem"; title = "Restore Defaults"; ObjectID = "V5o-gu-6Y6"; */
+"V5o-gu-6Y6.title" = "デフォルトに戻す";
+
+/* Class = "UILabel"; text = "Initial Setup Instructions"; ObjectID = "VZA-Hv-d4k"; */
+"Initial Setup Instructions" = "初期セットアップ手順";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "X65-xM-wmk"; */
+"X65-xM-wmk.normalTitle" = "はい";
+
+/* Class = "UILabel"; text = "- Add at least one Artist"; ObjectID = "X7H-NE-cLa"; */
+"X7H-NE-cLa.text" = "- 少なくとも1人のアーティストを追加する";
+
+/* Class = "UILabel"; text = "App Background Color"; ObjectID = "XYM-fa-XBS"; */
+"XYM-fa-XBS.text" = "アプリの背景色";
+
+/* Class = "UILabel"; text = "Send Us Feedback!"; ObjectID = "XYc-Wa-93V"; */
+"XYc-Wa-93V.text" = "フィードバックをお送りください";
+
+/* Class = "UINavigationItem"; title = "Client Queue"; ObjectID = "b6x-Q3-2hF"; */
+"b6x-Q3-2hF.title" = "クライアントキュー";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "b9j-Vq-Qf0"; */
+"b9j-Vq-Qf0.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "The default background color is white."; ObjectID = "bCo-cr-ecf"; */
+"bCo-cr-ecf.text" = "デフォルトの背景色は白です。";
+
+/* Class = "UITableViewSection"; headerTitle = "Privacy Policy"; ObjectID = "bdG-OP-gNo"; */
+"bdG-OP-gNo.headerTitle" = "個人情報保護方針";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "c7n-mH-g7k"; */
+"c7n-mH-g7k.normalTitle" = "持続する";
+
+/* Class = "UIButton"; normalTitle = "Reset Studio Logo"; ObjectID = "cqe-NQ-ebu"; */
+"cqe-NQ-ebu.normalTitle" = "リセットスタジオロゴ";
+
+/* Class = "UILabel"; text = "Studio Phone Number"; ObjectID = "dJe-aD-xu9"; */
+"dJe-aD-xu9.text" = "スタジオの電話番号";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ddF-jQ-5z4"; */
+"ddF-jQ-5z4.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "The Legalese are legal clauses the client must agree to and initial in order to get a tattoo/piercing."; ObjectID = "dpw-jD-Fgo"; */
+"dpw-jD-Fgo.text" = "法律上の法律は、クライアントが同意し、刺青を取得するために/刺すようにする必要があります法的条項です。";
+
+/* Class = "UILabel"; text = "This passcode allows access to the Queue only. Ideal for artists."; ObjectID = "e5h-zw-tbM"; */
+"e5h-zw-tbM.text" = "このパスコードは、キューへのアクセスのみを許可します。 アーティストに最適です。";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "eAb-E7-8Ff"; */
+"eAb-E7-8Ff.normalTitle" = "2";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "eT2-LM-n3S"; */
+"eT2-LM-n3S.title" = "裏面";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "euY-gt-Eh0"; */
+"euY-gt-Eh0.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "2. Enter the default master passcode: 1234"; ObjectID = "f9u-xF-9EJ"; */
+"f9u-xF-9EJ.text" = "2. デフォルトのマスターパスコードを入力してください：1234";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "fpr-EH-g9O"; */
+"fpr-EH-g9O.normalTitle" = "6";
+
+/* Class = "UILabel"; text = "Master Passcode"; ObjectID = "fwu-OR-sVa"; */
+"fwu-OR-sVa.text" = "マスターパスコード";
+
+/* Class = "UILabel"; text = "Select how this clause is shown"; ObjectID = "gve-C1-5jE"; */
+"gve-C1-5jE.text" = "この句の表示方法の選択";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "hRc-Y7-c2l"; */
+"hRc-Y7-c2l.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "izy-GB-KHW"; */
+"izy-GB-KHW.normalTitle" = "完了";
+
+/* Class = "UIButton"; normalTitle = "Reset Background Color"; ObjectID = "jDP-ou-DEZ"; */
+"jDP-ou-DEZ.normalTitle" = "背景色をリセットする";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[0] = "Tattoo"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[0]" = "入れ墨";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[1] = "Piercing"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[1]" = "穿刺";
+
+/* Class = "UISegmentedControl"; jPy-m4-d5L.segmentTitles[2] = "Both"; ObjectID = "jPy-m4-d5L"; */
+"jPy-m4-d5L.segmentTitles[2]" = "Both";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "jZ8-ep-GzF"; */
+"jZ8-ep-GzF.normalTitle" = "完了";
+
+/* Class = "UITextField"; placeholder = "12345"; ObjectID = "jws-fk-PNJ"; */
+"jws-fk-PNJ.placeholder" = "12345";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "kJr-iZ-L94"; */
+"kJr-iZ-L94.normalTitle" = "7";
+
+/* Class = "UIBarButtonItem"; title = "Queue"; ObjectID = "l9R-bA-Mh0"; */
+"l9R-bA-Mh0.title" = "キュー";
+
+/* Class = "UIBarButtonItem"; title = "Cancel Form"; ObjectID = "lXw-cS-kU1"; */
+"lXw-cS-kU1.title" = "フォームをキャンセル";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "mXO-JO-qf2"; */
+"mXO-JO-qf2.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Opacity:"; ObjectID = "nJs-Fd-hgm"; */
+"nJs-Fd-hgm.text" = "不透明度:";
+
+/* Class = "UILabel"; text = "1. Tap the Settings gear in the upper left hand corner."; ObjectID = "nUz-Vd-G6Q"; */
+"nUz-Vd-G6Q.text" = "1. 左上の設定ギアをタップします。";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "nZ5-wa-oGB"; */
+"nZ5-wa-oGB.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "Studio Website"; ObjectID = "oQ9-Hs-ZSy"; */
+"oQ9-Hs-ZSy.text" = "スタジオウェブサイト";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "osm-mW-Oyc"; */
+"osm-mW-Oyc.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "- Link a cloud Service (iCloud, Dropbox, BOX) "; ObjectID = "p06-dU-iVg"; */
+"p06-dU-iVg.text" = "- クラウドサービスをリンクする (iCloud, Dropbox, BOX) ";
+
+/* Class = "UILabel"; text = "4. Tap \"Done\" to save "; ObjectID = "p4L-h0-NYe"; */
+"p4L-h0-NYe.text" = "4. \"完了\" をタップして保存する ";
+
+/* Class = "UITextField"; placeholder = "Enter Studio Address"; ObjectID = "p7u-PO-ttT"; */
+"p7u-PO-ttT.placeholder" = "スタジオアドレスを入力";
+
+/* Class = "UITableViewSection"; headerTitle = "Send Feedback"; ObjectID = "p9A-Yk-r2Q"; */
+"p9A-Yk-r2Q.headerTitle" = "フィードバックを送る";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "psi-GJ-Q2f"; */
+"psi-GJ-Q2f.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "qL5-8w-rgC"; */
+"qL5-8w-rgC.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "qXT-ce-Vt2"; */
+"qXT-ce-Vt2.normalTitle" = "完了";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "rWs-40-SzM"; */
+"rWs-40-SzM.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "sFi-ZU-6fN"; */
+"sFi-ZU-6fN.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Current Image:"; ObjectID = "uDH-nU-6hp"; */
+"uDH-nU-6hp.text" = "現在の画像:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uVL-35-bdh"; */
+"uVL-35-bdh.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "This app requires the use of a cloud service. Any one of the following are appoved for this app. Tap on the icon so set up your account now."; ObjectID = "ufy-FU-M0U"; */
+"ufy-FU-M0U.text" = "このアプリはクラウドサービスの使用を必要とします。 次のいずれかが、このアプリのためにappovedされています。 アイコンをタップすると、今すぐあなたのアカウントを設定できます。";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "vz6-x4-pu4"; */
+"vz6-x4-pu4.normalTitle" = "置く";
+
+/* Class = "UILabel"; text = "Studio Logo"; ObjectID = "wUK-Va-kRF"; */
+"wUK-Va-kRF.text" = "スタジオロゴ";
+
+/* Class = "UILabel"; text = "Enter your legal clause below."; ObjectID = "wWx-Zb-GLe"; */
+"wWx-Zb-GLe.text" = "法的句を入力してください";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "wYl-eM-34l"; */
+"wYl-eM-34l.normalTitle" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Cancel Form"; ObjectID = "yxA-Ln-cZ0"; */
+"yxA-Ln-cZ0.title" = "フォームをキャンセル";
+
+/* Class = "UIButton"; title = "Choose Piercing"; ObjectID = "cux-se-qxp"; */
+"cux-se-qxp.title" = "ボディピアスを選ぶ";
+
